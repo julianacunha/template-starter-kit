@@ -1,0 +1,1347 @@
+  @font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Open Sans"), local("OpenSans"), url(https://themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format("woff"); }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local("Open Sans Semibold"), local("OpenSans-Semibold"), url(https://themes.googleusercontent.com/static/fonts/opensans/v8/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff) format("woff"); }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Open Sans Bold"), local("OpenSans-Bold"), url(https://themes.googleusercontent.com/static/fonts/opensans/v8/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format("woff"); }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local("Open Sans Italic"), local("OpenSans-Italic"), url(https://themes.googleusercontent.com/static/fonts/opensans/v8/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff) format("woff"); }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local("Open Sans Semibold Italic"), local("OpenSans-SemiboldItalic"), url(https://themes.googleusercontent.com/static/fonts/opensans/v8/PRmiXeptR36kaC0GEAetxn5HxGBcBvicCpTp6spHfNo.woff) format("woff"); }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url(https://themes.googleusercontent.com/static/fonts/opensans/v8/PRmiXeptR36kaC0GEAetxjqR_3kx9_hJXbbyU8S6IN0.woff) format("woff"); }
+
+@font-face {
+  font-family: 'Bad Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Bad Script Regular"), local("BadScript-Regular"), url(https://themes.googleusercontent.com/static/fonts/badscript/v3/rL_b2ND61EQmMOJ8CRr1fhsxEYwM7FgeyaSgU71cLG0.woff) format("woff"); }
+
+@font-face {
+  font-family: 'Homemade Apple';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Homemade Apple"), local("HomemadeApple"), url(https://themes.googleusercontent.com/static/fonts/homemadeapple/v4/yg3UMEsefgZ8IHz_ryz86Kmk7U3V72hKgu0Yds_deA8.woff) format("woff"); }
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Montserrat-Regular"), url(https://themes.googleusercontent.com/static/fonts/montserrat/v4/zhcz-_WihjSQC0oHJ9TCYBsxEYwM7FgeyaSgU71cLG0.woff) format("woff"); }
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Montserrat-Bold"), url(https://themes.googleusercontent.com/static/fonts/montserrat/v4/IQHow_FEYlDC4Gzy_m8fcgFhaRv2pGgT5Kf0An0s4MM.woff) format("woff"); }
+
+/* Uncomment if you don't want iOS and WinMobile to mobile-optimize the text for you: j.mp/textsizeadjust */
+/* html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } */
+/*}*/
+
+@media screen and (max-device-width: 480px) {
+  /* About Page Styles */
+  .about-page-wrap header h1 {
+    font-size: 2em;
+    line-height: 1.1em; }
+
+  #hello .content {
+    max-width: 95%; }
+
+  #hello .content p {
+    font-size: 1em;
+    line-height: 1.2em; }
+
+  #hello + #employees {
+    margin-top: 20px;
+    width: 92%;
+    padding: 0 4%; }
+
+  #employees .employer,
+  #employees .employer.even {
+    padding: 20px 10px; }
+
+  #employees .employer .img-wrap {
+    width: 190px;
+    position: static;
+    height: 300px;
+    background-size: auto 100%; }
+
+  #employees .employer .text-wrap {
+    padding-top: 20px; }
+
+  .about-page-wrap h2 {
+    text-align: center; }
+
+  .about-page-wrap h4,
+  #featured-video h4,
+  #aboutQuotes h4 {
+    margin: 30px 0 20px; }
+
+  #employees .employer .bio {
+    margin-bottom: 20px; }
+
+  #aboutQuotes blockquote,
+  #featured-video .video-link {
+    display: block;
+    width: 100%; }
+
+  #featured-video .video-link iframe {
+    display: none; }
+
+  #featured-video .video-link .hidden-link {
+    display: block;
+    background: url(../img/icons/podcast-icon.png) no-repeat 0 center;
+    background-size: auto 100%;
+    height: 48px;
+    padding-left: 60px;
+    font: 24px/48px 'Montserrat', sans-serif;
+    margin-bottom: 15px;
+    color: #3A3939; }
+
+  #featured-video p {
+    padding-right: 0px; }
+
+  #aboutQuotes blockquote.quote-2 {
+    margin: 0; }
+
+  #aboutQuotes blockquote img {
+    display: block;
+    margin: 30px auto 20px; }
+
+  .user-notloggedin .main#featured_podcast {
+    padding-top: 30px; }
+
+  #featured_podcast .featured_podcast_link {
+    background-size: 100%;
+    width: 60px;
+    height: 60px;
+    margin: 20px 10px 5px 0;
+    float: left; }
+
+  #featured_podcast .podcast-wrap {
+    display: block;
+    width: 100%;
+    text-align: left; }
+
+  #featured_podcast .podcast-wrap h4,
+  #featured_podcast .podcast-wrap h2 {
+    text-align: left; }
+
+  /* Blog Post Page */
+  #author.mentor {
+    width: 100%;
+    margin-top: 40px; }
+
+  #author.mentor img {
+    width: 100%;
+    display: block; }
+
+  #author.mentor .mentor-bio {
+    width: 94%;
+    padding: 20px 3%;
+    height: auto; }
+
+  .individual-content .entry-metadata,
+  #blog-post-aside .sharing h4,
+  #blog-post-aside #sharing-links,
+  #blog-post-aside #sharing-links li {
+    text-align: center;
+    float: none; }
+
+  .individual-content .entry-header .entry-title {
+    font-size: 42px;
+    line-height: 48px; }
+
+  .individual-content .entry-content {
+    margin: 30px 0; }
+
+  .horizontal-boot.red-boot #bootcamp {
+    padding: 30px 0; }
+
+  .horizontal-boot #bootcamp .bootcamp-content,
+  .horizontal-boot.red-boot #bootcamp #mc-embedded-subscribe {
+    width: 100%;
+    float: none;
+    text-align: center; }
+
+  .horizontal-boot.red-boot #bootcamp #mce-EMAIL {
+    width: 280px;
+    padding: 20px 10px; }
+
+  .individual-content #nav-single {
+    margin: 0; }
+
+  .individual-content .post-tw-wrap {
+    margin: 30px 0;
+    width: 278px;
+    padding: 10px 10px 15px; }
+
+  .horizontal-boot #bootcamp figure {
+    text-align: center;
+    float: none; }
+
+  .single-post .site-footer {
+    margin-top: -150px;
+    padding-bottom: 30px; }
+
+  /* Bootcamp Styles */
+
+  div#zenbox_tab {
+    display: none !important; }
+
+  .show-list .menu-top-navigation-container,
+  .show-list #menu-new-top-nav {
+    display: block; }
+
+  .site-header .menu-item a:visited, .site-header .menu-item a:link, .site-header .menu-item a {
+    color: #727176;
+    font-family: 'montserrat';
+    font-size: 16px; }
+
+
+  div#holiday-gift {
+    height: 108px;
+    background: #ccf1e3; }
+
+  .site-header .menu-item {
+    float: none; }
+
+
+  .page-template-template-bootcamp-sales-php #container {
+    min-width: 320px;
+    padding-top: 50px;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php #container {
+    /*
+        min-width: 1200px;
+    */
+    padding-top: 50px;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php .main {
+    margin: auto;
+    /*
+        max-width: 1200px;
+        min-width: 1200px;*/
+    padding: 0;
+    text-align: left;
+    width: 100%; }
+
+  .page #skillcrush-bootcamp-mobile header h1,
+  .page #skillcrush-bootcamp-mobile header h2,
+  #skillcrush-bootcamp-mobile .about-bootcamp-text h3,
+  #skillcrush-bootcamp-mobile h3 {
+    text-align: center;
+    font-family: 'Montserrat';
+    float: none;
+    font-weight: normal;
+    text-transform: none; }
+
+  .page #skillcrush-bootcamp-mobile header h1 {
+    font-size: 40px;
+    padding-bottom: 20px; }
+
+  .page #skillcrush-bootcamp-mobile header h2 {
+    color: #999999;
+    font-size: 28px;
+    margin-bottom: 100px; }
+
+  #skillcrush-bootcamp-mobile h3 {
+    color: #e76e66;
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding: 0 20px; }
+
+  .bootcamp-subscribe input[type="submit"] {
+    background: #E76E66;
+    font-size: 16px;
+    padding: 14px 0px;
+    width: 88px; }
+
+  .bootcamp-subscribe input[type="text"], .bootcamp-subscribe input[type="password"], .bootcamp-subscribe label {
+    width: 230px; }
+
+  .bootcamp-subscribe .login {
+    width: 275px; }
+
+  #skillcrush-bootcamp-mobile .about-bootcamp-text li {
+    background: #ee9f3a;
+    color: white; }
+
+  #skillcrush-bootcamp-mobile .about-bootcamp-text li p {
+    font-family: 'montserrat';
+    text-align: center;
+    font-size: 20px;
+    padding: 30px 40px; }
+
+  #skillcrush-bootcamp-mobile .about-bootcamp-text li img {
+    display: block;
+    margin: 0 auto; }
+
+  #skillcrush-bootcamp-mobile .about-bootcamp-text {
+    padding-bottom: 0;
+    width: 100%;
+    margin-bottom: 50px; }
+
+  #skillcrush-bootcamp-mobile .about-bootcamp-text h3 {
+    color: #09cda1;
+    padding: 20px 30px;
+    font-size: 26px; }
+
+  #more-about-bootcamp p {
+    padding: 0px; }
+
+  /* Homepage Styles */
+
+  .home header.contain-to-grid,
+  .home .top-bar-section ul,
+  .home .contain-to-grid,
+  .home .top-bar {
+    background:none;
+  }
+
+  body.home {
+    color: #3B3B3B;
+    font: normal 16px/25px "Open Sans",Arial,sans-serif;
+    width: 100%;
+  }
+
+  .single-challenges_users .user-notloggedin .site-header {
+    display:none;
+  }
+
+  .single-challenges_users .user-notloggedin header.individual-core-skill-header {
+      margin-top: 0px;
+  }
+
+  .sub-footer p,
+  .sub-footer a,
+  .sub-footer a:link,
+  .sub-footer a:hover,
+  .sub-footer a:visited {
+      color: #525151;
+      text-decoration: none;
+      font-size: 12px;
+  }
+  .sub-footer a:hover {
+      text-decoration: underline;
+  }
+
+  .sub-footer p.footer-copyright {
+      clear: both;
+      text-align: center;
+  }
+
+  .homepage-container .main {
+      background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+      padding: 0 1.5rem 3.125rem;
+  }
+
+  .homepage-container h1 {
+        font-family: "Montserrat",Arial,sans-serif;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 700;
+        letter-spacing: -1px;
+        line-height: 60px;
+        margin: 18px 0;
+        width: 100%;
+        text-transform: uppercase;
+  }
+
+  .homepage-container #homepage-hero-cta {
+      background: none repeat scroll 0 0 rgba(255, 255, 255, 0.7);
+      float: right;
+      padding: 3% 3% 2%;
+      width: 48%;
+  }
+
+  .homepage-container #homepage-hero-cta ul {
+    margin:20px 0;
+  }
+
+  .homepage-container #homepage-hero-cta h3 {
+    text-align:center;
+    font-size: 16px;
+    font-weight: bold;
+      text-transform: uppercase;
+    padding:0 20px;
+  }
+
+  .homepage-container #homepage-hero-cta h4 {
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 16px;
+      margin-top: 0;
+      padding: 0;
+      text-align: left;
+  }
+
+  #homepage-hero-cta .mc-field-group {
+      margin: auto;
+      width: 100%;
+  }
+
+  #homepage-hero-cta #homepage-form ul li {
+      background: url("../img/homepage/check2.png") no-repeat scroll 0 5px rgba(0, 0, 0, 0);
+      color: #333333;
+      font-family: 'open sans';
+      font-size: 17px;
+      list-style-type: none;
+      margin-left: 0;
+      padding-left: 8%;
+  }
+
+  #homepage-hero-cta #mc_embed_signup {
+      width: 100%;
+  }
+
+  #homepage-press {
+      margin-top: 30px;
+  }
+
+  #homepage-press h5 {
+      color: #FC817C;
+      font-family: 'Montserrat';
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+  }
+
+  .user-notloggedin #header-sign-in {
+      float: right;
+      max-width: 220px;
+      min-width: 220px;
+      width: 15%;
+  }
+
+  .menu-top-navigation-container {
+      float: right;
+      width: 38%;
+  }
+
+  body.home .sign-up {
+      border-radius: 0;
+      box-shadow: none;
+      margin-right: 10px;
+      margin-top: 4px;
+      padding: 4px 17px 5px;
+    color:#7d7c7c;
+  }
+
+  body.home .sign-up a {
+    color:#7d7c7c;  
+  }
+
+  body.home #header-sign-in ul li h2 a:hover {
+    color:#3A3939;
+    cursor:pointer;
+  text-decoration:none;
+  }
+
+  .sign-in {
+      margin-left: 10px;
+      margin-right: 5px;
+      margin-top: 8px;
+      padding-bottom: 0;
+      padding-right: 15px;
+      position: relative;
+      text-transform: uppercase;
+  }
+
+  #homepage-hero-cta p#homepage-headline {
+    font-size:18px;
+    margin-bottom:20px;
+    color:#7e7e7e;
+    font-weight:normal;
+    font-family:'open sans';
+  }
+
+  #homepage-form img {
+      margin: -35px 0 0;
+      position: absolute;
+      z-index: 100;
+  }
+  #custom-tweet-button img {
+      z-index: auto;
+      position: static;
+  }
+  #homepage-checklist {
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+      border-bottom: 2px dotted #DDDDDD
+  }
+  .homepage-container #homepage-hero-cta {
+      background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+      float: right;
+      width: 45%;
+  }
+
+  .sub-footer p span {
+      margin-right: 50px;
+  }
+
+  .sub-footer p a {
+      margin: 0;
+  }
+
+  .home .site-header {
+      height: 46px;
+  }
+
+
+  #homepage-sidenote, #homepage-computer {
+    display: none !important; }
+
+  .homepage-container #homepage-hero-cta h4 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    margin-top: 0;
+    padding: 0;
+    text-align: center; }
+
+  #homepage-press img {
+    width: 100%; }
+
+  #homepage-hero-cta h2 {
+    padding: 0 30px; }
+
+  #home-hero.hero {
+    background: none repeat scroll 0 0 #FFFFFF;
+    height: auto;
+    padding: 0;
+    text-align: center; }
+
+  #homepage-step-1.homepage-steps {
+    border-top: medium none;
+    clear: both;
+    margin-top: 0;
+    overflow: auto;
+    padding: 40px 0 0; }
+
+  #bootcamp-main-content {
+    float: left;
+    margin-right: 26px;
+    width: 100%; }
+
+  #bootcamp-main-content #mc_embed_signup input[type="text"], #bootcamp-main-content #mc_embed_signup input[type="email"] {
+    width: 230px;
+    margin-bottom: 20px; }
+
+  #bootcamp-main-content #mc_embed_signup input[type="submit"] {
+    float: left;
+    margin-bottom: 40px;
+    padding: 15px 32px;
+    text-transform: uppercase; }
+
+  #homepage-core-skills, #student-projects, #homepage-step-3, #homepage-picture {
+    display: none; }
+
+  #homepage-last-signup img {
+    display: none; }
+
+  .homepage-testimonial {
+    overflow: hidden; }
+
+  #homepage-letter-content {
+    background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: 0 2px 2px 0 #A3BBBF;
+    float: none;
+    max-width: 480px;
+    min-width: 245px;
+    padding: 10% 8%;
+    width: 80%; }
+
+  #homepage-last-signup h2 {
+    padding: 40px 5% 20px; }
+
+  #homepage-testimonials ul {
+    margin: 40px auto;
+    width: 100%; }
+
+  #blog-roll {
+    border-top: 1px dotted #CCCCCC;
+    float: none;
+    margin-bottom: 0;
+    margin-right: 4%;
+    max-width: 480px;
+    min-width: 300px;
+    width: 96%; }
+
+  #blog-email-signup #mc_embed_signup {
+    padding: 10px 0;
+    position: relative;
+    width: 100%; }
+
+  #blog-email-signup .main {
+    background: none;
+    height: auto; }
+
+  #blog-email-signup {
+    /*background: url("../img/bootcamp-header-mobile.png") no-repeat scroll center top #282828;*/
+    color: #FFD6BD;
+    display: none;
+    min-height: 220px;
+    width: 100%; }
+
+  #blog-email-signup h2 {
+    font-size: 28px;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: none; }
+
+  #blog-email-signup h3 {
+    font-size: 16px;
+    margin-left: 0;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase; }
+
+  #blog-email-signup .form {
+    margin: 20px auto;
+    width: 100%; }
+
+  .individual-content article {
+    clear: both;
+    float: none;
+    max-width: 480px;
+    width: 100%; }
+
+  .individual-content aside#blog-post-aside {
+    float: none;
+    margin-right: 0;
+    width: 100%; }
+
+  #sharing-links li {
+    clear: none;
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 23%; }
+
+  .user-notloggedin #header-sign-in {
+    display: none; }
+
+  .homepage-container h1 {
+    font-family: "Montserrat",Arial,sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -1px;
+    line-height: 54px;
+    margin: 18px 0;
+    text-transform: uppercase;
+    width: 100%; }
+
+  .user-notloggedin .site-header nav.show-list {
+    overflow: visible; }
+
+  .user-notloggedin .site-header {
+    display: block;
+    padding-bottom: 0;
+    /*top: 108px;*/ }
+
+  .menu-top-navigation-container {
+    background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: 0 4px 4px -2px #333333;
+    overflow: auto; }
+
+  body {
+    min-width: 320px;
+  }
+
+  .sub-footer {
+    min-width: 300px;
+    padding: 10px 4% 20px;
+    text-align: left;
+    width: 92%; }
+
+  #bootcamp-close {
+    right: 0;
+    top: 6px; }
+
+  footer .main {
+    margin: 0;
+    max-width: 480px;
+    min-width: 288px;
+    padding: 0 5%;
+    text-align: left;
+    width: 90%; }
+
+  #secondary-content .second-column {
+    width: 100%; }
+
+  .secondary-content-node {
+    margin-right: 0;
+    width: 100%; }
+
+  #secondary-content .first-column {
+    float: none;
+    margin-right: 0;
+    width: 100%; }
+    
+  /* Sales Page */
+  hr.sales-page-divider {
+    color: #D4D4D4;
+    margin: 0 0 0 36px;
+    max-width: 460px;
+    min-width: 300px;
+    width: 70%; }
+
+  #buy ul li {
+    border-bottom: 1px solid #CBCACA;
+    border-right: 0 none;
+    float: left;
+    height: auto;
+    margin-bottom: 0;
+    padding: 30px 2%;
+    text-align: left;
+    width: 96%; }
+
+  #buy ul li:nth-child(7), #buy ul li:nth-child(9), #buy ul li:nth-child(8) {
+    border-bottom: auto; }
+
+  #buy .big-enroll-button {
+    float: none;
+    margin: 20px 36%; }
+
+  .site-example {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: url("../img/sales-page/top-bar.jpg") no-repeat scroll -2px 0 rgba(0, 0, 0, 0);
+    border-color: -moz-use-text-color #979797 #979797;
+    border-image: none;
+    border-radius: 5px;
+    border-right: 1px solid #979797;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    height: auto;
+    margin: auto;
+    overflow: hidden;
+    padding: 32px 0 0;
+    width: 37%; }
+
+  .class-proof img {
+    display: block;
+    float: none;
+    margin: 0 4%;
+    padding-left: 0;
+    padding-right: 0;
+    width: 92%; }
+
+  .class-proof div.quote {
+    background: url("../img/sales-page/red-quotes.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    float: none;
+    overflow: auto;
+    padding: 20px 3%;
+    width: 94%; }
+
+  .odd .module-image {
+    float: none;
+    margin: 0 4% 20px;
+    text-align: left;
+    width: 92%; }
+
+  .module-text {
+    float: none;
+    padding: 10px 0 60px;
+    width: 100%; }
+
+  #module_5 .class-benefit-content {
+    float: none;
+    padding-top: 20px;
+    width: 100%; }
+
+  .class-benefit-content {
+    float: none;
+    padding-top: 40px;
+    width: 100%; }
+
+  .class-benefit-image {
+    float: none;
+    margin: 0 3%;
+    text-align: center;
+    width: 94%; }
+
+  .even .module-image, .even .module-text {
+    float: none; }
+
+  .module-image {
+    float: none;
+    margin: 0 3% 20px;
+    text-align: center;
+    width: 100%; }
+
+  .letter-image {
+    float: none;
+    width: 100%; }
+
+  .class-letter {
+    float: none;
+    width: 100%; }
+
+  #showcase-website-about {
+    display: none; }
+
+  #secondary-sign-up-form form input[type="email"], #secondary-sign-up-form form input[type="text"] {
+    width: 247px; }
+
+  /*----------------------------------------------------------------------------- 
+  Vanilla Sales Page
+  -----------------------------------------------------------------------------*/
+  .vanilla-sales-left {
+    float: none;
+    width: 100%;
+    padding-top: 30px; }
+
+  .vanilla-sales-right {
+    float: none;
+    padding-left: 0;
+    padding-top: 20px;
+    width: 100%; }
+
+  .vanilla-sales-left img {
+    padding-left: 80px; }
+
+  #vanilla-sales-page p {
+    font-size: 22px; }
+
+  #vanilla-sales-page .vanilla-content ul li {
+    list-style-type: disc;
+    font-size: 22px;
+    line-height: 30px;
+    margin-left: 20px; }
+
+  #vanilla-sales-page .vanilla-content ul {
+    margin-bottom: 20px; }
+
+  #vanilla-sales-page .vanilla-content .big-enroll-button {
+    margin-left: 0; }
+
+  /** Blueprints Homepage **/
+  .homepage-container #homepage-hero-cta {
+    float: none;
+    padding: 0;
+    width: 100%; }
+
+  #homepage-hero-cta #homepage-form ul li {
+    padding-left: 30px; }
+
+
+  #homepage-form img {
+    display: none; }
+
+  #homepage-hero-cta #mc_embed_signup .error-container {
+    width: auto; }
+
+  .home .sub-footer,
+  .page-template-page-templatestemplate-blueprints-sales-page-php .sub-footer,
+  .single-sc_blueprints .sub-footer,
+  .page-template-page-templatestemplate-skillcrush-about-php .sub-footer,
+  .single-post .sub-footer {
+    height: 130px;
+    width: 100%;
+    min-width: 0;
+    padding: 0; }
+
+  .home .sub-footer .main,
+  .page-template-page-templatestemplate-blueprints-sales-page-php .sub-footer .main,
+  .single-sc_blueprints .sub-footer .main,
+  .page-template-page-templatestemplate-skillcrush-about-php .sub-footer .main,
+  .single-post .sub-footer .main {
+    min-width: 0;
+    margin: auto; }
+
+  .home .sub-footer p span,
+  .page-template-page-templatestemplate-blueprints-sales-page-php .sub-footer p span,
+  .single-sc_blueprints .sub-footer p span,
+  .page-template-page-templatestemplate-skillcrush-about-php .sub-footer p span,
+  .single-post .sub-footer p span {
+    display: block;
+    margin-right: 0;
+    text-align: center; }
+
+  /** Blueprints Sales page **/
+
+  .bp-letter-content .list {
+    margin-top: 20px; }
+
+  .bp-dream-content {
+    width: auto; }
+
+  #main-blueprints-options-list article .options-internal {
+    border: medium none; }
+
+ 
+  #main-blueprints-options-list article aside {
+    width: auto; }
+
+  #bp-howitworks-content .even figure {
+    float: none;
+    margin-left: 0;
+    width: 300px; }
+
+  #download-boss-link {
+    width: auto; }
+
+  #download-boss-link .download-link-content {
+    float: none;
+    width: auto; }
+
+  #download-boss-link .download-link-content p {
+    width: auto; }
+
+  #bp-whats-included #unemployed-content p {
+    width: auto; }
+
+  #countdown {
+    display: none; }
+
+  /* Individual Blueprint Pages */
+  .single-sc_blueprints #container {
+    padding-top: 0; }
+
+  .single-sc_blueprints .user-notloggedin .site-header {
+    display: block;
+    padding-bottom: 0;
+    /*position: fixed;*/ }
+
+  /*.single-sc_blueprints .user-notloggedin .site-header nav h3 {
+      padding-top: 13px;
+  }*/
+  .single-sc_blueprints .user-notloggedin .site-header .menu-item a {
+    color: #727176; }
+
+  .single-sc_blueprints #sales-hero h4 {
+    font-weight: normal;
+    margin-top: 20px; }
+
+  .single-sc_blueprints #sales-hero footer .button {
+    width: 100%;
+    padding: 12px 0; }
+
+  .single-sc_blueprints .what-they-do {
+    padding: 0 0 100px; }
+
+  .single-sc_blueprints #about-blueprint .main img,
+  .single-sc_blueprints #about-blueprint .main p {
+    margin-left: 0;
+    width: auto; }
+
+  .single-sc_blueprints .main p {
+    color: #4B595C;
+    margin-bottom: 20px; }
+
+  .single-sc_blueprints #sales-hero header h1 {
+    color: #FFFFFF;
+    float: none;
+    font-family: 'Montserrat';
+    font-size: 48px; }
+
+  .class-details-main {
+    border-right: medium none;
+    float: none;
+    max-width: 787px;
+    width: 100%; }
+
+  .reveal-modal-bg {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.45);
+    display: none;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 98; }
+
+  body {
+    color: #444444;
+    cursor: default;
+    font-family: "Open Sans","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1; }
+
+  html, body {
+    font-size: 100%; }
+
+  .blueprint-profile {
+    background: url("../img/blueprints/profile-arrow.png") no-repeat scroll 340px 150px rgba(0, 0, 0, 0);
+    border-left: medium none;
+    border-top: 1px solid #C2CBCC;
+    padding-top: 70px; }
+
+  .blueprint-profile ul {
+    padding: 80px 0 80px 20px; }
+
+  .blueprint-profile header {
+    height: 377px;
+    border-bottom: 1px solid #C2CBCC;
+    padding-bottom: 70px;
+    padding-left: 20px;
+    position: relative; }
+
+  .blueprint-profile img {
+    bottom: 0;
+    position: absolute;
+    right: auto; }
+
+  aside#numbers-sidebar {
+    max-width: 412px;
+    width: 100%;
+    float: none;
+    border-left: none; }
+
+  #numbers-sidebar li p {
+    font-size: 48px; }
+
+  #numbers-sidebar li#avg-salary {
+    height: 150px; }
+
+  #numbers-sidebar li#job-growth {
+    height: 200px; }
+
+  #numbers-sidebar li#total-jobs,
+  #numbers-sidebar li#bus-data {
+    height: 170px; }
+
+  #developer-number #avg-salary img {
+    top: -12px;
+    width: 200px; }
+
+  #numbers-sidebar li#total-jobs p {
+    font-size: 80px;
+    padding: 8px 13px 0; }
+
+  #numbers-sidebar li img {
+    width: 230px; }
+
+  #numbers-sidebar li#job-growth p {
+    padding-top: 0;
+    font-size: 60px; }
+
+  li#job-growth img {
+    width: 200px; }
+
+  #developer-number #bus-data img {
+    top: -54px;
+    left: 25px; }
+
+  #numbers-sidebar li#bus-data p {
+    font-size: 74px; }
+
+  .single-sc_blueprints #main-blueprints-options-list > header {
+    border: 1px solid #C2CBCC;
+    margin: auto;
+    padding: 30px 0;
+    width: 100%; }
+
+  #main-blueprints-options-list header h2 {
+    font-size: 24px; }
+
+  .single-sc_blueprints .blueprint-profile h2 {
+    font-size: 36px;
+    width: auto; }
+
+  #all-classes {
+    padding: 20px; }
+
+  .class-details span {
+    display: block;
+    padding: 0 10px 0 0; }
+
+  .class-date p {
+    padding-left: 78px;
+    margin-top: -78px; }
+
+  .class-icon {
+    padding-bottom: 30px; }
+
+  #bp-faqs p {
+    margin-bottom: 10px; }
+
+  #faq_s1_leftcol,
+  #faq_s1_midcol,
+  #faq_s1_rightcol,
+  #faq_s2_leftcol,
+  #faq_s2_rightcol,
+  #faq_s3_leftcol,
+  #faq_s3_rightcol,
+  #faq_s2 > div {
+    width: auto;
+    float: none; }
+
+  #faq_s1 #faq_s1_midcol,
+  #faq_s3_leftcol {
+    padding: 0; }
+
+  #enroll {
+    padding: 60px 0; }
+
+  #enroll .button {
+    width: 100%; }
+
+  #enroll .button a {
+    font-size: 26px;
+    text-decoration: none;
+    text-transform: uppercase; }
+
+  .sub-footer {
+    height: auto;
+    min-width: 300px;
+    padding: 10px 4% 20px;
+    text-align: left;
+    width: 92%; }
+
+  .single-sc_blueprints #sales-hero h4 {
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 20px; }
+
+  #sales-hero footer .button a {
+    text-decoration: none;
+    padding: 4px 0;
+    text-transform: uppercase; }
+
+  #enroll h2 {
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize; }
+
+  body.page-template-page-templatestemplate-videos-php .testimonial-content {
+    background: url("../img/blueprints/green-quotes.png") no-repeat scroll 0 22px rgba(0, 0, 0, 0);
+    margin: 80px -30px 80px 110px;
+    width: 55%;
+    padding-left: 30px; }
+
+  body.page-template-page-templatestemplate-videos-php header#main-title {
+    background: url("../img/blueprints/logo-back.png") no-repeat scroll -470px 0 rgba(0, 0, 0, 0); }
+
+  body.page-template-page-templatestemplate-videos-php section#main-header h2 {
+    font-family: 'Montserrat';
+    font-size: 36px;
+    font-weight: normal;
+    padding: 50px 30px 40px;
+    text-align: center;
+    text-transform: uppercase; }
+
+  body.page-template-page-templatestemplate-videos-php #videos header {
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php #videos .video-info-content {
+    float: none;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php #bp-program {
+    height: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+    max-width: 100%;
+    padding-top: 540px; }
+
+  body.page-template-page-templatestemplate-videos-php .bp-program-content {
+    color: #3B3B3B;
+    float: none;
+    font-size: 20px;
+    line-height: 28px;
+    margin-left: 0;
+    padding: 20px 10px;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php #download-boss-link .download-link-content {
+    clear: both;
+    float: none;
+    margin-left: 0;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php #download-boss-link {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.25);
+    border: 2px dotted #A2B1B4;
+    clear: both;
+    margin: 40px 0;
+    padding: 30px;
+    width: 100%; }
+
+
+  #main-blueprints-options-list article aside {
+    float: none;
+    padding: 20px 10px; }
+
+  body.page-template-page-templatestemplate-videos-php #main-blueprints-options-list {
+    width: 100%;
+    padding: 60px 5%; }
+
+
+  body.page-template-page-templatestemplate-videos-php .testimonial-content {
+    background: url("../img/blueprints/green-quotes.png") no-repeat scroll 0 22px rgba(0, 0, 0, 0);
+    float: none;
+    margin: 0 auto 40px;
+    padding-left: 30px;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php #bootcamp-signup figure {
+    float: none;
+    margin-left: 50px;
+    margin-right: 0; }
+
+  body.page-template-page-templatestemplate-videos-php .bootcamp-signup-content {
+    float: none;
+    padding-top: 30px;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php #bootcamp-signup .main {
+    margin: auto;
+    max-width: 960px;
+    min-width: 300px;
+    padding: 0 20px;
+    text-align: left;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php #bootcamp-signup figure {
+    float: none;
+    margin: auto;
+    text-align: center; }
+
+  body.page-template-page-templatestemplate-videos-php input[type="text"] {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 2px solid #B2BBBD;
+    border-radius: 0;
+    color: #666666;
+    float: none;
+    font-size: 18px;
+    height: 52px;
+    margin-top: 20px;
+    padding: 5px 10px;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php input[type="submit"] {
+    background: none repeat scroll 0 0 #F16059;
+    color: #FFFFFF;
+    display: block;
+    font-size: 18px;
+    height: 53px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 16px 49px;
+    text-transform: uppercase;
+    width: 100%; }
+
+  body.page-template-page-templatestemplate-videos-php .sub-footer {
+    height: auto;
+    margin-top: 60px;
+    min-width: 300px; }
+
+  /* class sales pages */
+
+  .single-sc_classes_sales  .sales-hero-content ul li {
+    display: block; }
+
+  .single-sc_classes_sales #purchase .main > p {
+    width: auto; }
+
+
+  .single.single-sc_classes_sales .purchase-box.class-purchase-box {
+    height: 410px; }
+
+  .single-sc_classes_sales .purchase-102 .purchase-box .button {
+    margin: 47px 10px 0; }
+
+
+  .single.single-sc_classes_sales #class-breakdown .class-breakdown-left img,
+  .single.single-sc_classes_sales #class-breakdown .class-breakdown-right img {
+    display: none; }
+
+
+  .single.single-sc_classes_sales #class-breakdown .breakdown.inactive, .single.single-sc_classes_sales #class-breakdown .breakdown.inactive h3 {
+    color: #444444; }
+
+
+
+  .menu-top-navigation-container,
+  #menu-new-top-nav {
+    background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: none;
+    overflow: auto;
+    width: 100%;
+    display: none;
+    -webkit-transition: all 800ms ease 0s;
+    -moz-transition: all 800ms ease 0s;
+    transition: all 800ms ease 0s; }
+
+  .single.single-sc_classes_sales .show-list .menu-top-navigation-container,
+  .single.single-sc_classes_sales .show-list #menu-new-top-nav {
+    display: block;
+    -webkit-transition: all 800ms ease 0s;
+    -moz-transition: all 800ms ease 0s;
+    transition: all 800ms ease 0s; }
+
+
+  .single.single-sc_classes_sales .site-header .menu-item a:visited,
+  .single.single-sc_classes_sales .site-header .menu-item a:link,
+  .single.single-sc_classes_sales .site-header .menu-item a {
+    color: white;
+    font-family: 'montserrat';
+    font-size: 16px;
+    font-weight: normal; }
+
+
+  .single.single-sc_classes_sales .site-header .log-out-link {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: none; }
+
+
+  .single.single-sc_classes_sales #bootcamp .bootcamp-content {
+    float: none;
+    padding: 5%;
+    width: 90%; }
+
+  .single.single-sc_classes_sales #testimonial {
+    background: none repeat scroll 0 0 #F9F7F7;
+    padding: 80px 0 0; }
+
+
+  /* thank you page */
+  .page-template-page-templatestemplate-mp-thankyou-php {
+    max-width: 320px;
+    min-width: 320px; }
+    .page-template-page-templatestemplate-mp-thankyou-php #thank-you .main h1 {
+      font-size: 64px; }
+    .page-template-page-templatestemplate-mp-thankyou-php #thank-you-content {
+      width: 300px;
+      margin-left: 0;
+      padding-top: 25px; } }
+

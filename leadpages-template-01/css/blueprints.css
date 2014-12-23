@@ -1,0 +1,3006 @@
+/* Individual Blueprints Page Styles
+-------------------------------------------------------------- */
+/* Hero Styles */
+.page #sales-hero header {
+    padding-top: 70px;
+    width: 80%;
+    max-width: 960px;
+    overflow: hidden;
+}
+
+.page-template-page-templatestemplate-blueprints-sales-page-php #sales-hero {
+    background: transparent url("../img/blueprints/tattoos.jpg") repeat 70% 0;
+    background-size: cover;
+    height: 700px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 2400px;
+    padding-top: 80px;
+}
+
+.page #sales-hero header h1 {
+    float: left;
+    font-family: 'Montserrat';
+    font-size: 56px;
+    font-weight: bold;
+    line-height: 1.1;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color:#3b3b3b;
+    margin-top: 10px;
+}
+
+#sales-hero .hero-content {
+    max-width: 895px;
+    padding: 20px 0 10px;
+}
+
+
+#sales-hero .hero-content p {
+    font-size:23px;
+    font-family:'open sans';
+    line-height:33px;
+}
+  
+.single-sc_blueprints #sales-hero {
+    background: url("../img/blueprints/blueprints-hero.png") no-repeat scroll 0 0 #509EA8;
+    margin: 0 auto;
+    max-width: 2400px;
+/*    overflow: auto;*/
+    padding-bottom: 50px;
+    padding-top: 80px;
+}
+.postid-45594.single-sc_blueprints #sales-hero {
+  background: url("../img/blueprints/wordpress-bp-background.png") no-repeat scroll 0 0 #509EA8;
+}
+.single-sc_blueprints.postid-17313 #sales-hero {
+    background:url("../img/blueprints/web-design-hero.png") repeat scroll 0 0 / cover rgba(0,0,0,0.0);
+}
+
+.single-sc_blueprints #sales-hero footer {
+  clear:both;
+}
+
+.single-sc_blueprints #sales-hero span {
+    color: #b5d6dc;
+}
+#sales-hero footer .button a {
+    color: #FFFFFF;
+    display: block;
+    font-family: 'montserrat';
+    font-size: 20px;
+    font-weight: normal;
+    padding: 4px 40px;
+    text-transform: uppercase;
+}
+
+#sales-hero footer .button a:hover {
+  text-decoration:none;
+}
+
+.single-sc_blueprints {
+  background:url("../img/blueprints/pattern.png") repeat scroll 0 0 #ECF1F1;
+}
+
+.single-sc_blueprints .menu > .menu-item > a:visited,
+.single-sc_blueprints .menu > .menu-item > a:link,
+.single-sc_blueprints .menu > .menu-item > a ,
+.single-sc_blueprints .log-out-link a {
+    color: #FFF;
+    font-family: 'Montserrat';
+}
+
+.single-sc_blueprints #header-sign-in .sign-in h2 a {
+    color: #fff;
+}
+
+.single-sc_blueprints .site-logo a{
+    background: url("../img/logo/white-logo.png") no-repeat center;
+}
+.single-sc_blueprints #container {
+    padding-top: 0;
+}
+
+.single-sc_blueprints #sales-hero header h1 {
+    color: white;
+    font: bold 54px 'Montserrat', sans-serif;
+    line-height: 1.1;
+    margin: 10px 0 20px;
+    text-transform: uppercase;
+}
+
+.single-sc_blueprints h3,
+.single-sc_blueprints h4,
+.single-sc_blueprints h2 {
+  color:#3b4651;
+  font-weight:normal;
+  font-family: 'Montserrat';
+}
+
+
+#main-blueprints-options-list header h2,
+#other-stuff .blueprints header h2 {
+  text-align:center;
+  color:#1c383c;
+  text-transform:uppercase;
+  font-weight:normal;
+  font-size:30px;
+}
+
+.one-class .class-icon {
+    width: 260px;
+}
+.page-template-page-templatestemplate-dashboard-php .class-icon {
+    width: 100px;
+}
+
+.one-class .class-icon img {
+    width:100%;
+}
+
+.single-sc_blueprints .blueprint-profile h2,
+#numbers-sidebar h2 {
+    text-transform: uppercase;
+}
+
+#bp-whats-included {
+  padding:80px 0;
+}
+
+.single-sc_blueprints #sales-hero h4 {
+  font-weight:normal;
+  margin-top:80px;
+    color: #b5d6dc;
+}
+
+.single-sc_blueprints #sales-hero footer .button {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.3);
+    border: 1px solid #FFFFFF;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.15);
+    margin-top: 42px;
+}
+
+.single-sc_blueprints #sales-hero p {
+    color: #b5d6dc;
+  font-size:19px;
+  line-height:30px;
+  max-width:900px;
+}
+
+#bp-buy-it {
+    background: url("../img/blueprints/blue-pattern.png") repeat scroll 0 0 #509EA8;
+    padding: 110px 0;
+}
+
+.diagonal-borders {
+    background: url("../img/blueprints/little-grey-lines.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 13px;
+}
+
+.diagonal-bottom-border {
+  margin-bottom:100px;
+}
+
+#bp-class-details .class-details-main {
+    padding: 80px 0 0;
+}
+
+#bp-class-details .main {
+  border-right:1px solid #c2cbcc;
+    border-left:1px solid #c2cbcc;
+}
+
+#bp_classes {
+  border-top:1px solid #c2cbcc;
+  border-bottom:1px solid #c2cbcc;
+  background: url("../img/blueprints/stripe.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+
+}
+
+#bp_classes .main {
+  background:url("../img/blueprints/pattern.png") repeat scroll 0 0 #ECF1F1;
+  border-left: 1px solid #C2CBCC;
+
+}
+.single-sc_blueprints #main-blueprints-options-list {
+    border-left: none;
+    border-right: 1px solid #C2CBCC;
+    float: left;
+    padding: 60px 4% 0 4%;
+    width: 100%;
+}
+
+.class-details-main {
+  float:left;
+  max-width:787px;
+  width:65%;
+  border: none;
+}
+.postid-17313 .class-details-main {
+  border-right:1px solid #c2cbcc;
+}
+
+.what-they-do {
+    padding: 0 60px 100px 40px;
+}
+
+.what-they-do h3 {
+  margin-bottom:20px;
+}
+
+aside#numbers-sidebar {
+    max-width: 419px;
+    width: 35%;
+    border: none;
+}
+.postid-17314 aside#numbers-sidebar,
+.postid-45594 aside#numbers-sidebar {
+  border-left: 1px solid #c2cbcc;
+}
+
+#numbers-sidebar h2 {
+  text-align:center;
+}
+
+#numbers-sidebar header {
+    border-bottom: 1px solid #C2CBCC;
+    border-top: 1px solid #C2CBCC;
+    margin-top: 60px;
+    padding: 36px 0;
+}
+
+#numbers-sidebar li {
+    color: #40858E;
+    font-family: 'montserrat';
+    font-size: 63px;
+    height: 300px;
+    margin-bottom: 60px;
+    margin-left: 16px;
+    position: relative;
+}
+
+#numbers-sidebar li#avg-salary {
+  height:200px;
+}
+
+#numbers-sidebar li p {
+    color: #40858E;
+    font-family: 'montserrat';
+    font-size: 63px;
+    text-transform: uppercase;
+}
+
+#numbers-sidebar li img {
+  position:absolute;
+}
+
+#numbers-sidebar ul {
+  margin-top:80px;
+    margin-left: 5px;
+}
+
+#developer-number #total-jobs {
+  text-align:center;
+}
+
+#numbers-sidebar li#total-jobs p {
+    color: #40858E;
+    font-family: 'montserrat';
+    font-size: 110px;
+    letter-spacing: -8px;
+    padding: 40px 13px 0;
+    position: absolute;
+    text-transform: uppercase;
+    z-index: 999;
+}
+
+#numbers-sidebar li#job-growth p {
+    color: #40858E;
+    font-family: 'montserrat';
+    font-size: 74px;
+    font-weight: bold;
+    letter-spacing: -3px;
+    margin-left: 27px;
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+
+#numbers-sidebar li#bus-data p {
+  font-size:122px;
+  font-weight:bold;
+  text-align:center;
+}
+
+#total-jobs img {
+    left: 12px;
+    top: -25px;
+}
+
+.postid-45594 #total-jobs img {
+  left: 6px;
+}
+
+#job-growth img {
+    left: 60px;
+    top: -40px;
+}
+
+#developer-number #bus-data img {
+    left: 31px;
+    top: -82px;
+}
+
+#developer-number #avg-salary img {
+    left: 50px;
+    top: -34px;
+}
+
+.postid-45594 #developer-number #avg-salary img {
+  left: 25px;
+}
+
+#numbers-sidebar li#total-jobs p {
+    color: #40858E;
+    font-family: 'montserrat';
+    font-size: 110px;
+    letter-spacing: -8px;
+    padding: 40px 13px 0;
+    position: absolute;
+    text-transform: uppercase;
+    z-index: 999;
+}
+.postid-45594 #numbers-sidebar li#total-jobs p {
+  font-size: 90px;
+}
+.blueprint-profile {
+    background: url("../img/blueprints/profile-arrow.png") no-repeat scroll 340px 150px rgba(0, 0, 0, 0);
+    border-top: 1px solid #C2CBCC;
+    padding-top: 70px;
+}
+
+#about-blueprint .main {
+    border: solid #C2CBCC;
+    border-width: 1px 1px 0 1px;
+}
+
+#about-blueprint .main-content {
+    padding: 60px 40px 56px;
+}
+
+#about-blueprint img {
+    float: left;
+    margin-left: 80px;
+}
+
+.single-sc_blueprints #about-blueprint .main p {
+    color: #4b595c;
+    float: left;
+    font-size: 19px;
+    line-height: 32px;
+    margin-left: 40px;
+    width: 68%;
+}
+
+.blueprint-profile ul {
+    padding: 80px 80px 80px 120px;
+}
+
+.blueprint-profile header {
+    border-bottom: 1px solid #C2CBCC;
+    padding-bottom: 70px;
+  position:relative;
+  padding-left: 40px;
+}
+
+.single-sc_blueprints .main p {
+  color:#4b595c;
+}
+
+.job-perks {
+    background: none repeat scroll 0 0 #E5ECEE;
+    margin-top: 40px;
+    padding: 30px;
+}
+
+.job-perks h4, .job-perks ul, .job-perks ul li {
+  float:left;
+}
+
+.job-perks h4 {
+  font-family:'open sans';
+}
+
+.job-perks ul li {
+    background: url("../img/blueprints/light-red-check.png") no-repeat scroll 11px 6px rgba(0, 0, 0, 0);
+    font-size: 15px;
+    margin-left: 7px;
+    padding-left: 31px;
+}
+
+.single-sc_blueprints .blueprint-profile h2 {
+    font-size: 40px;
+    width: 400px;
+}
+
+.blueprint-profile img {
+    position: absolute;
+    right: 20px;
+    /*top: -126px;*/
+    width: 250px;
+    bottom: 0;
+}
+
+#bp-buy-it h2 {
+  color:white;
+  font-size:32px;
+  text-align:center;
+}
+
+#bp-buy-it p {
+    color: #B5D6DC;
+    font-size: 19px;
+    line-height: 30px;
+    margin: 20px auto;
+    max-width: 760px;
+    text-align: center;
+}
+
+#bp-buy-it .button {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.3);
+    border: 1px solid #FFFFFF;
+    box-shadow: none;
+    display: block;
+    float: none;
+    padding: 0;
+    width: 600px;
+  margin: 80px auto auto;
+}
+
+#bp-buy-it .button:hover {
+  background: none repeat scroll 0 0 rgba(255, 255, 255, 0.1);
+
+}
+
+#bp-buy-it .button a {
+    color: #FFFFFF;
+    display: block;
+    font-family: 'montserrat';
+    font-size: 32px;
+    padding: 22px 0;
+    text-transform: uppercase;
+}
+
+#bp-buy-it .button a:hover {
+  text-decoration:none;
+}
+
+#bp-buy-it .main > h4 {
+    font-family: 'open sans';
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    text-align: center;
+    text-transform: none;
+    color: #B5D6DC;
+}
+
+#bp-buy-it #payment_options {
+    margin: auto;
+    width: 283px;
+}
+
+#bp-faqs .main > div {
+
+}
+
+#faq_s1 {
+    /*border-bottom: 1px solid #C2CDCE;*/
+    margin-top: 100px;
+    padding-bottom: 70px;
+}
+
+#faq_s1_leftcol,
+#faq_s1_midcol,
+#faq_s1_rightcol {
+    width: 31.9%;
+    float:left;
+}
+
+#faq_s1 #faq_s1_midcol {
+    padding: 0 20px;
+}
+
+#faq_s2 {
+    border-top: 1px solid #C2CBCC;
+    margin: 0;
+    overflow: auto;
+    padding: 40px 0;
+    clear:both;
+}
+
+#faq_s2 li {
+    background: url("../img/global/red-x.png") no-repeat scroll 0 7px rgba(0, 0, 0, 0);
+    padding-left: 30px;
+}
+
+#faq_s2 > div {
+    float: left;
+    margin-top: 40px;
+    width: 42%;
+}
+
+#faq_s2_leftcol {
+  margin-left:8%;
+  margin-right:4%;
+}
+#faq_s2_leftcol li {
+    background: url("../img/blueprints/green-check.png") no-repeat scroll 0 7px rgba(0, 0, 0, 0);
+}
+
+#faq_s2_rightcol {
+
+}
+
+#faq_s3 {
+  border-top: 1px solid #C2CBCC;
+  padding-top:60px;
+}
+
+#faq_s3_leftcol,
+#faq_s3_rightcol {
+    width: 48.9%;
+    float: left;
+}
+#faq_s3_leftcol {
+    padding-right: 20px;
+}
+
+#main-blueprints-options-list > header,
+#other-stuff .blueprints > header {
+  border: 1px solid #C2CBCC;
+    padding:30px 0;
+  margin-bottom:30px;
+}
+
+.single-sc_blueprints li.sign-up {
+    background: none;
+    border: 1px solid #FFFFFF;
+}
+#all-classes {
+    padding: 60px;
+}
+.class-icon {
+    float: left;
+}
+
+.one-class .class-icon {
+    float: left;
+    margin-right: 30px;
+
+}
+.single-sc_blueprints .one-class .class-icon {
+    margin-right: 25px;
+}
+
+.page-template-page-templatestemplate-dashboard-php #classes #all-classes {
+    float: none;
+    padding: 0;
+}
+
+.one-class .class-details h3 {
+    font-size: 24px;
+    font-weight: normal;
+    padding-bottom: 0;
+}
+
+.one-class .class-details h4 {
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
+.class-details span {
+    padding: 0 10px;
+}
+
+.one-class {
+    float: none;
+    margin-bottom: 60px;
+}
+.one-class h3 {
+    font-size: 24px;
+    font-weight: normal;
+    padding-bottom: 60px;
+}
+
+.one-class > h3 {
+    background: url("../img/blueprints/dotted-header.png") no-repeat scroll 319px 13px transparent;
+}
+
+#bp-options,
+#bp-testimonial-2,
+#bp-how-it-works,
+#bp-whats-included,
+#enrollment-form-container {
+  background: url('../img/blueprints/pattern.png') 0 0 #ECF1F1;
+}
+
+
+/* What you Get */
+.the-goods h2 {
+  color:#1c383c;
+  font-weight:normal;
+  font-size:32px;
+  text-align:left;
+}
+/* What's Included */
+
+.bp-included-main-content {
+  margin-bottom:100px;
+}
+
+.bp-included-main-content li {
+    float: left;
+    height: 390px;
+    padding-top: 80px;
+    text-align: center;
+    width: 28%;
+    margin: 0 1%;
+}
+
+.bp-included-main-content li.middle {
+  margin: 0 5%;
+
+}
+
+.bp-included-content h4 {
+  margin-top:10px;
+  line-height: 26px;
+}
+
+.bp-included-main-content li img {
+  max-width: 100%;
+}
+
+
+.page-template-page-templatestemplate-dashboard-php #classes .main #blueprint-classes,
+.page-template-page-templatestemplate-dashboard-php #classes .main #old-classes {
+    margin-top: 30px;
+}
+
+/* blueprint sales date boxes */
+#blueprint-classes .class-date,
+#bp_classes .class-date {
+    background: none repeat scroll 0 0 #E5ECEE;
+    margin-top: 40px;
+    overflow: auto;
+    padding: 10px;
+}
+#blueprint-classes .date-box,
+#bp_classes .date-box {
+    box-shadow: 2px 2px 5px 0 #CCC;
+    display: block;
+    float: left;
+    height: 70px;
+    margin-right: 10px;
+    text-align: center;
+    width: 66px;
+}
+#blueprint-classes .date-box .day,
+#bp_classes .date-box .day {
+    color: white;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 3px;
+    font-size: 14px;
+}
+#blueprint-classes .date-box .date,
+#bp_classes .date-box .date {
+    font-size: 32px;
+    font-weight: bold;
+    height: 44px;
+    background-color: #FFF;
+}
+#blueprint-classes .class-date p,
+#bp_classes .class-date p {
+    display: block;
+    float: left;
+    font-weight: bold;
+    margin-bottom: 0;
+    padding-top: 16px;
+    vertical-align: middle;
+}
+
+.one-class .class-details {
+    float: left;
+    width: 600px;
+}
+
+.embed-container {
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 51%;
+    padding-top: 30px;
+    position: relative;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+/* NEW Individual Class Sales */
+
+.single-sc_classes_sales .sales-hero-104 {
+  background:#F76565;
+}
+
+.single-sc_classes_sales .sales-hero-104,
+.single.single-sc_classes_sales .purchase-104 .class-purchase-box.purchase-box {
+  background:#F76565;
+}
+
+.single-sc_classes_sales .sales-hero-100,
+.single.single-sc_classes_sales .purchase-100 .class-purchase-box.purchase-box {
+  background:#9ed5cf;
+}
+
+.single.single-sc_classes_sales .purchase-104 .class-purchase-box.purchase-box .button {
+background:#C93535;
+}
+
+.single.single-sc_classes_sales .purchase-100 .class-purchase-box.purchase-box .button {
+    background:#4D887D;
+    margin-top: 46px;
+}
+
+.single-sc_classes_sales .sales-hero-100 h1,
+.single-sc_classes_sales .sales-hero-104 h1,
+.single-sc_classes_sales .sales-hero-100 .sales-hero-main p,
+.single-sc_classes_sales .sales-hero-104 .sales-hero-main p,
+.single-sc_classes_sales .sales-hero-104 .sales-hero-content span,
+.single-sc_classes_sales .sales-hero-104 .sales-hero-content ul,
+.single-sc_classes_sales .sales-hero-100 .sales-hero-content span,
+.single-sc_classes_sales .sales-hero-100 .sales-hero-content ul {
+  color:white;
+}
+
+.single.single-sc_blueprints .log-out-link,
+.single.single-sc_classes_sales .log-out-link {
+  border: 1px solid #fff;
+  background: transparent;
+}
+/*.single.single-sc_classes_sales.postid-19419 .log-out-link {
+  border: 1px solid #333;
+}*/
+.single-sc_blueprints .log-out-link a,
+.single-sc_classes_sales .log-out-link a {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*.single-sc_classes_sales.postid-19419 .log-out-link a {
+  color: #333;
+}*/
+
+.single.single-sc_classes_sales .menu>.menu-item>a:visited,
+.single.single-sc_classes_sales .menu>.menu-item>a:link,
+.single.single-sc_classes_sales .menu>.menu-item>a {
+  color: #fff;
+  font-weight: bold;
+}
+
+/*.single.single-sc_classes_sales.postid-19419 .menu>.menu-item>a:visited,
+.single.single-sc_classes_sales.postid-19419 .menu>.menu-item>a:link,
+.single.single-sc_classes_sales.postid-19419 .menu>.menu-item>a {
+  color: #333;
+  font-weight: bold;
+}*/
+
+.single.single-sc_classes_sales .site-header h1 a {
+    background: url("../img/logo/white-logo.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.single-sc_classes_sales  #back-to-dev-blueprint,
+.single-sc_classes_sales  #back-to-des-blueprint {
+    display: none;
+}
+.single-sc_classes_sales .sales-hero-100 #back-to-dev-blueprint a,
+.single-sc_classes_sales .sales-hero-100 #back-to-des-blueprint a {
+    color: #199c8e;
+}
+.single-sc_classes_sales .sales-hero-101 #back-to-dev-blueprint a,
+.single-sc_classes_sales .sales-hero-101 #back-to-des-blueprint a {
+    color: #9381A5;
+}
+.single-sc_classes_sales .sales-hero-102 #back-to-dev-blueprint a,
+.single-sc_classes_sales .sales-hero-102 #back-to-des-blueprint a {
+    color: #D89728;
+}
+.single-sc_classes_sales .sales-hero-104 #back-to-dev-blueprint a,
+.single-sc_classes_sales .sales-hero-104 #back-to-des-blueprint a {
+    color: #a4295a;
+}
+.single-sc_classes_sales .sales-hero-101 {
+    background: #c7bcd6;
+    color: #FFFFFF;
+}
+.single-sc_classes_sales .sales-hero-102 {
+    background: #ffdf7b;
+    color: #454545;
+}
+.single-sc_classes_sales .sales-hero-103,
+.single-sc_classes_sales .sales-hero-203 {
+    color: #FFFFFF;
+}
+.single-sc_classes_sales  h1 {
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+#sales-hero.sales-hero-101 h1, #sales-hero.sales-hero-101 h4 {
+    color: #FFFFFF;
+
+}
+.single-sc_classes_sales figure {
+    float: left;
+    margin-right: 60px;
+}
+
+.single-sc_classes_sales  .sales-hero-main p {
+    font-family: 'open sans';
+    font-size: 19px;
+    line-height: 32px;
+  margin-bottom: 40px;
+}
+
+.single.single-sc_classes_sales #container {
+    padding-left: 0;
+    padding-top: 0;
+}
+
+.single-sc_classes_sales  .sales-hero-content span,
+.single-sc_classes_sales  .sales-hero-content ul {
+    text-transform: uppercase;
+}
+.single-sc_classes_sales  .sales-hero-content ul,
+.single-sc_classes_sales  .sales-hero-content ul li {
+    display: inline;
+}
+.single-sc_classes_sales .sales-hero-content  ul li {
+    font-size: 15px;
+    margin-left: 7px;
+    padding-left: 31px;
+}
+.single-sc_classes_sales .sales-hero-100 ul li {
+    background: url("../img/blueprints/100-small-check.png") no-repeat scroll 11px 6px rgba(0, 0, 0, 0);
+}
+.single-sc_classes_sales .sales-hero-101 ul li {
+    background: url("../img/blueprints/101-small-check.png") no-repeat scroll 11px 6px rgba(0, 0, 0, 0);
+}
+.single-sc_classes_sales .sales-hero-102 ul li {
+    background: url("../img/blueprints/102-small-check.png") no-repeat scroll 11px 6px rgba(0, 0, 0, 0);
+}
+.single-sc_classes_sales .sales-hero-104 ul li {
+    background: url("../img/blueprints/104-small-check.png") no-repeat scroll 11px 6px rgba(0, 0, 0, 0);
+}
+.single-sc_classes_sales .sales-hero-103 ul li {
+    background: url("../img/blueprints/103-small-check.png") no-repeat scroll 11px 6px rgba(0, 0, 0, 0);
+}
+.single-sc_classes_sales .sales-hero-203 ul li {
+    background: url("../img/blueprints/203-small-check.png") no-repeat scroll 11px 6px rgba(0, 0, 0, 0);
+}
+.single.single-sc_classes_sales #down-arrow img {
+    display: block;
+    margin: auto;
+    margin-top: -65px;
+}
+.single.single-sc_classes_sales #class-breakdown {
+    padding: 50px 0 0 0;
+}
+
+.breakdown {
+  position:relative;
+}
+
+.breakdown img {
+  position:absolute;
+}
+
+.breakdown.class-breakdown-left img,
+.breakdown.class-breakdown-right img {
+    bottom: -38px;
+}
+
+.single.single-sc_classes_sales #class-breakdown .class-breakdown-preview {
+    background: url("../img/blueprints/screen.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 563px;
+    margin: 60px auto -70px;
+    padding-top: 70px;
+    width: 1005px;
+}
+
+.single.single-sc_classes_sales #class-breakdown .preview {
+    width: 890px;
+    height: 493px;
+    margin: auto;
+    margin-top: 0px;
+  background:white;
+}
+
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .left-preview.preview {
+    background: url("../img/kitties.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    padding: 40px;
+    width: 850px;
+    height: 423px;
+}
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .left-preview-text {
+    width: 850px;
+    margin-left: -40px;
+    margin-top: -40px;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .left-preview.preview h1,
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .left-preview.preview p {
+  font-family:times new roman;
+  color:black;
+}
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .left-preview.preview h1 {
+  font-size:36px;
+  font-weight:bold;
+}
+
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .left-preview.preview p {
+  font-size:18px;
+  line-height:24px;
+}
+
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .right-preview.preview {
+    background: url("../img/kitties.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 423px;
+    padding: 40px;
+    width: 850px;
+}
+
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .right-preview.preview h1,
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .right-preview.preview p {
+  color:white;
+}
+
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .right-preview.preview h1 {
+    font-size: 34px;
+    font-weight: normal;
+    line-height: 50px;
+    margin-bottom: 16px;
+}
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .right-preview.preview p {
+    font-size: 19px;
+    line-height: 32px;
+}
+.single.single-sc_classes_sales #class-breakdown header {
+    margin: auto;
+    padding-bottom: 60px;
+    text-align: center;
+    width: 700px;
+}
+.single.single-sc_classes_sales #class-breakdown .class-breakdown-left,
+.single.single-sc_classes_sales #class-breakdown .class-breakdown-right {
+    border: 1px solid #d3d1d1;
+    background-color: #FBFBFB;
+}
+.single.single-sc_classes_sales #class-breakdown .class-breakdown-left {
+    float: left;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .class-breakdown-left img {
+    margin-top: 11px;
+    margin-left: 350px;
+}
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-102 .class-breakdown-left img {
+    margin-top: 39px;
+    margin-left: 350px;
+}
+.single.single-sc_classes_sales #class-breakdown .class-breakdown-right {
+    float: right;
+    cursor: pointer;
+}
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-101 .class-breakdown-right img {
+    margin-top: 39px;
+    margin-left: 65px;
+}
+.single.single-sc_classes_sales #class-breakdown.class-breakdown-102 .class-breakdown-right img {
+    margin-top: 11px;
+    margin-left: 65px;
+}
+.single.single-sc_classes_sales #class-breakdown .breakdown {
+    padding: 30px;
+    width: 470px;
+    border: 1px solid #d3d1d1;
+    float: none;
+    display: inline-block;
+    text-align: left;
+}
+.single.single-sc_classes_sales #class-breakdown .breakdown h3 {
+    margin-bottom: 10px;
+    /*color: #aeabab;*/
+  font-weight:normal;
+}
+.single.single-sc_classes_sales #class-breakdown .breakdown.inactive {
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.single.single-sc_classes_sales #class-breakdown .breakdown.inactive,
+.single.single-sc_classes_sales #class-breakdown .breakdown.inactive h3 {
+    color: #aeabab;
+}
+.single.single-sc_classes_sales #class-breakdown .right-preview.inactive,
+.single.single-sc_classes_sales #class-breakdown .left-preview.inactive {
+    display: none;
+}
+.single.single-sc_classes_sales #testimonial {
+    background: #f9f7f7;
+    padding: 80px 0 80px 0;
+}
+
+.single.single-sc_classes_sales .testimonial-holder {
+    margin: auto;
+    max-width: 980px;
+    width: 100%;
+}
+
+.single.single-sc_classes_sales #testimonial figure {
+    float: right;
+}
+.single.single-sc_classes_sales #testimonial .testimonial-content {
+    float: left;
+    margin-left: 0;
+    padding-left: 44px;
+    width: 560px;
+}
+.single.single-sc_classes_sales #week-breakdown {
+    padding: 80px 0 80px 0;
+}
+.single.single-sc_classes_sales #mentors h2 {
+    background: url("../img/blueprints/dotted-header.png") no-repeat scroll 340px 19px rgba(0, 0, 0, 0);
+    font-size: 33px;
+    margin-bottom: 80px;
+}
+.mentor img {
+    float: left;
+    vertical-align: bottom;
+    border: 0;
+}
+
+.single.single-sc_classes_sales #mentors.mentors-101-old .mentor.mentor-1 img {
+      margin-left: -60px;
+}
+
+.single.single-sc_classes_sales #mentors .mentor {
+    width: 50%;
+    float: left;
+}
+.mentor-bio {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.7);
+    float: right;
+    height: 380px;
+    margin-left: -140px;
+    padding: 30px;
+    width: 350px;
+}
+
+.mentor-bio h4 {
+  margin-bottom:10px;
+}
+
+.single.single-sc_classes_sales .mentors-101 .mentor-1 img,
+.single.single-sc_classes_sales .mentors-100 .mentor-1 img {
+    margin-left: -110px;
+}
+
+.single.single-sc_classes_sales #week-breakdown .classes {
+    margin: auto;
+    max-width: 780px;
+    min-width: 780px;
+}
+.single.single-sc_classes_sales #week-breakdown .class {
+    overflow: auto;
+    padding: 40px 0;
+}
+
+.single.single-sc_classes_sales #week-breakdown .details {
+    float: left;
+    margin-left: 0;
+    width: 71%;
+}
+
+.single.single-sc_classes_sales #week-breakdown .class-date {
+    background: none repeat scroll 0 0 #E5ECEE;
+    margin-top: 40px;
+    overflow: auto;
+    padding: 10px;
+}
+.single.single-sc_classes_sales #week-breakdown .date-box {
+    box-shadow: 2px 2px 10px -3px #CCCCCC;
+    display: block;
+    float: left;
+    height: 145px;
+    margin-right: 60px;
+    text-align: center;
+    width: 140px;
+    border: 1px solid #ececec;
+    font-family: 'Montserrat';
+}
+.single.single-sc_classes_sales #week-breakdown .date-box .day {
+    color: #FFFFFF;
+    font-size: 24px;
+    margin: 0 0 3px;
+    padding: 9px;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+}
+.single.single-sc_classes_sales #week-breakdown .date-box .date {
+    background-color: #FFFFFF;
+    color: #9C9B9A;
+    font-size: 65px;
+    font-weight: bold;
+    height: 70px;
+    line-height: 70px;
+    padding: 7px;
+}
+
+.single.single-sc_classes_sales .class .details h4 {
+  text-transform:uppercase;
+  color:#3b3b3b;
+  font-size:24px;
+     margin-bottom: 14px;
+}
+
+.single.single-sc_classes_sales .week-2 {
+    border-top: 2px dotted #DEDDDD;
+    border-bottom: 2px dotted #DEDDDD;
+}
+.single.single-sc_classes_sales #faq {
+    padding: 80px 0 80px 0;
+}
+
+/* Single Class Sales Pages */
+.single.single-sc_classes_sales #sales-hero {
+  padding: 140px 0;
+  margin-top: 0px;
+}
+.single.single-sc_classes_sales .user-notloggedin #sales-hero {
+  padding: 140px 0;
+  margin-top: -76px;
+}
+
+.single-sc_classes_sales .diagonal-borders {
+    margin-top: -7px;
+}
+
+.single.single-sc_classes_sales #class-breakdown h2 {
+    color: #3B3B3B;
+    font-weight: normal;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.single.single-sc_classes_sales #class-breakdown p {
+    font-size: 18px;
+    line-height: 28px;
+}
+.single-sc_classes_sales h2 {
+    font-size: 33px;
+    font-weight: normal;
+}
+
+.single-sc_classes_sales #week-breakdown h2 {
+margin-bottom:40px;
+color:#3b4647;
+}
+
+.single-sc_classes_sales #faq {
+  font-family:'open sans';
+}
+
+.single.single-sc_classes_sales .breakdown-holder {
+    margin: auto;
+    max-width: 1100px;
+    text-align: center;
+}
+
+.single-sc_classes_sales #purchase {
+    background-color: #f9f7f7;
+}
+
+.single-sc_classes_sales #purchase h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+.single-sc_classes_sales #purchase .main > p {
+    font-size: 18px;
+    line-height: 33px;
+    margin: 20px auto 60px;
+    text-align: center;
+    max-width: 730px;
+}
+
+.single.single-sc_classes_sales .purchase-box {
+    background: none repeat scroll 0 0 #509EA8;
+    color: #FFFFFF;
+    float: left;
+    height: 505px;
+    padding: 60px 65px;
+    text-align: center;
+    max-width: 570px;
+    overflow: hidden;
+}
+.single.single-sc_classes_sales .purchase-103 .purchase-box {
+  padding: 60px 55px;
+}
+
+.single-sc_classes_sales .purchase-box.class-purchase-box h2 {
+  margin-top: 13px;
+  line-height: 40px;
+  min-height: 77px;
+}
+
+.single.single-sc_classes_sales .blueprint-purchase-box {
+  padding-top: 45px;
+}
+
+.single.single-sc_classes_sales .blueprint-purchase-box figure img {
+  width: 65px;
+}
+
+
+.single.single-sc_classes_sales .purchase-101 .class-purchase-box {
+  background:#c7bcd6;
+}
+.single.single-sc_classes_sales .purchase-102 .class-purchase-box {
+    background: #ffdf7b;
+}
+
+.single-sc_classes_sales .purchase-box h2,
+.single-sc_classes_sales .purchase-box h3,
+.single-sc_classes_sales .purchase-box p {
+  color:white;
+}
+.single-sc_classes_sales .purchase-102 .purchase-box.class-purchase-box h2,
+.single-sc_classes_sales .purchase-102 .purchase-box.class-purchase-box h3,
+.single-sc_classes_sales .purchase-102 .purchase-box.class-purchase-box p {
+  color: #454545;
+}
+.single-sc_classes_sales .purchase-103 .purchase-box.class-purchase-box h3,
+.single-sc_classes_sales .purchase-203 .purchase-box.class-purchase-box h3 {
+  font-size: 30px;
+}
+.single-sc_classes_sales .purchase-100 .purchase-box h4 {
+    color: #4D887D;
+}
+.single-sc_classes_sales .purchase-101 .purchase-box h4 {
+    color: #9381A5;
+}
+.single-sc_classes_sales .purchase-102 .purchase-box h4 {
+    color: #D89728;
+}
+.single-sc_classes_sales .purchase-104 .purchase-box h4 {
+    color: #C93535;
+}
+.single-sc_classes_sales .purchase-103 .purchase-box h4 {
+    color: #2A90AC;
+}
+.single-sc_classes_sales .purchase-203 .purchase-box h4 {
+    color: #007097;
+}
+.single-sc_classes_sales .purchase-box.class-purchase-box h4 {
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box h4 {
+    color: #D4F4F7;
+}
+.single-sc_classes_sales .purchase-102 .purchase-box.class-purchase-box h5 {
+  color: #454545;
+}
+.single-sc_classes_sales .purchase-box h5 {
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-top: 45px;
+    text-transform: uppercase;
+}
+
+.single-sc_classes_sales .purchase-101 .purchase-box .button {
+    background-color: #9381A5;
+    margin-top: 46px;
+}
+
+.single-sc_classes_sales .purchase-102 .purchase-box .button {
+    background-color: #D89728;
+}
+.single-sc_classes_sales .purchase-103 .purchase-box .button {
+    background-color: #2A90AC;
+}
+.single-sc_classes_sales .purchase-203 .purchase-box .button {
+    background-color: #007097;
+}
+
+.single-sc_classes_sales .purchase-box .button {
+    border: 0;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: block;
+    float: none;
+    font-family: 'montserrat';
+    font-size: 15px;
+    font-weight: normal !important;
+    line-height: normal;
+    margin: 3rem 0 0;
+    padding: 17px;
+    position: static;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 300ms ease-out 0s;
+    height: 72px;
+    line-height: 40px;
+}
+
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box .button {
+    background-color: #7CB6BE;
+    border: 1px solid #FFFFFF;
+    margin: 57px 0 0;
+    width: 440px;
+    height: 70px;
+    line-height: 40px;
+}
+
+.single-sc_classes_sales .class-purchase-box.purchase-box {
+  margin-right:1px;
+  width: 570px;
+}
+
+.single-sc_classes_sales .purchase-box a:hover {
+  text-decoration:none;
+}
+
+.single-sc_classes_sales .purchase-box .class-cost {
+    font-family: 'montserrat';
+    font-size: 63px;
+    font-weight: bold;
+    line-height: 1;
+    margin: 18px 0 0;
+    text-align: center;
+}
+.single-sc_classes_sales .purchase-box .class-cost span {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box header {
+    float: none;
+    position: relative;
+    padding-bottom: 38px;
+}
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box header:after {
+    content: '';
+    position: absolute;
+    border-bottom: 1px solid #86C3CB;
+    width: 800px;
+    left: -200px;
+    bottom: 0;
+}
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box h5 span {
+    font-weight: bold;
+}
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box h5 {
+  margin-top: 50px;
+}
+
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box .hgroup {
+    display: inline-block;
+    vertical-align: middle;
+}
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box .hgroup h2,
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box .hgroup h4 {
+    float: none;
+    margin: 0;
+}
+
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box .hgroup h2 {
+  margin-top: 5px;
+}
+
+.single.single-sc_classes_sales .blueprint-purchase-box.purchase-box figure {
+    float: left;
+}
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box h4,
+.single-sc_classes_sales .purchase-box.blueprint-purchase-box h2 {
+    text-align: left;
+    padding-left: 20px;
+    float: left;
+}
+
+.single.single-sc_classes_sales .class-purchase-holder {
+    margin: 0 auto 50px;
+    width: 1141px;
+    position: relative;
+    overflow: hidden;
+}
+
+.single.single-sc_classes_sales .class-purchase-holder p#or {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 120px;
+    color: #969595;
+    font: 32px/115px 'montserrat', sans-serif;
+    height: 115px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 115px;
+    z-index: 1;
+}
+
+.single-sc_classes_sales #purchase figure {
+    text-align:center;
+    clear: both;
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0;
+}
+
+.single-sc_classes_sales #purchase .class-purchase-holder + figure {
+  text-align:center;
+    display: block;
+}
+
+
+.single-sc_classes_sales .sub-footer p,
+.single-sc_classes_sales .sub-footer a,
+.single-sc_classes_sales .sub-footer a:link,
+.single-sc_classes_sales .sub-footer a:visited {
+  color: #3B3B3B;
+}
+
+.single.single-sc_classes_sales p.class-payments {
+  color:#c0bebe;
+  font-size:19px;
+  text-align:center;
+}
+
+.single.single-sc_classes_sales img.payment-icons {
+    display: block;
+    margin: auto;
+}
+
+.single-sc_classes_sales #purchase .main {
+  padding: 80px 0;
+}
+
+.single-sc_classes_sales #sales-hero .sales-hero-main {
+    float: left;
+    width: 63%;
+}
+
+/* Testimonials */
+#bp-testimonial-2 .testimonial-content {
+    background: none repeat scroll 0 0 #F0F4F5;
+    border: 2px dotted #C2CBCC;
+    float: none;
+   margin: 0 auto auto;
+    padding: 40px;
+    width: auto;
+}
+
+#bp-testimonial-2 {
+  padding-top:40px;
+}
+
+#bp-testimonial-2 .testimonial-content h4 {
+    color: #F89F73;
+    margin-top: 10px;
+    text-align: right;
+}
+
+#bp-testimonial-2 .testimonial-content p {
+    color: #3B3B3B;
+    font-family: 'montserrat';
+    font-size: 29px;
+    font-style: normal;
+    line-height: 36px;
+}
+
+#bp-testimonial-1 {
+    border-top: 2px dotted #D8D7D7;
+    padding: 0 0 50px;
+}
+
+#bp-testimonial-1 figure {
+    float: right;
+    margin-top: -20px;
+}
+
+.testimonial-content p {
+    font-size: 22px;
+    font-style: italic;
+    line-height: 36px;
+}
+
+.testimonial-content {
+    background: url("../img/blueprints/quote-back.png") no-repeat scroll 0 22px rgba(0, 0, 0, 0);
+    float: left;
+    margin-left: 110px;
+    margin-right: -30px;
+    margin-top: 80px;
+    padding-left: 46px;
+    padding-top: 40px;
+    width: 604px;
+}
+
+.bp-testimonial-content figure {
+  margin-top:-20px;
+}
+
+.testimonial-content h4 {
+  color:#f89f73;
+  margin-top:10px;
+}
+
+/* countdown clock */
+#countdown {
+  width: 620px;
+  padding: 80px 0 40px 0;
+  margin: auto;
+}
+#countdown .flip-clock-wrapper {
+  margin: 0;
+}
+#countdown h5 {
+  font-family: 'Homemade Apple', 'cursive';
+  text-align: center;
+  font-size: 22px;
+  margin-top: 30px;
+  line-height: 28px;
+}
+#countdown h5 span {
+  border-bottom: 1px solid #3A3939;
+  display: inline-block;
+}
+.page-template-page-templatestemplate-blueprints-sales-page-php .flip .inn {
+  color: #FFFFFF;
+}
+.post-template-single-sc_blueprints-php .flip .inn {
+  color: #49919B;
+}
+.single-sc_classes_sales #other-stuff {
+  padding: 60px 0;
+}
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .single-classes-wrap
+.single-sc_classes_sales #other-stuff .single-classes-wrap {
+  width: 1100px;
+  min-width: 1100px;
+  margin: auto;
+}
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes h2,
+.single-sc_classes_sales #other-stuff h2 {
+  text-align: center;
+  line-height: 42px;
+  margin-bottom: 60px;
+  font-size: 32px;
+}
+
+.single-sc_classes_sales #other-stuff .other-blueprints h2 {
+  margin-top: 60px;
+}
+
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .one-class,
+.single-sc_classes_sales #other-stuff .one-class {
+  padding: 30px 100px;
+  border: 1px solid #F0EAEC;
+  float: left;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .class-details h3,
+.single-sc_classes_sales #other-stuff .class-details h3 {
+  margin: 0 0 20px 0;
+}
+
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .class-details .what-youll-learn,
+.single-sc_classes_sales #other-stuff .class-details .what-youll-learn {
+  margin-top: 20px;
+}
+
+
+
+/* Dream Job */
+#bp-dream {
+    border-top: 2px dotted #D8D7D7;
+    padding: 70px 0;
+}
+
+#bp-dream-image {
+    float: left;
+    margin-right: 140px;
+    padding-left: 110px;
+    width: 200px;
+}
+
+.bp-dream-content {
+    float: left;
+    padding-top: 50px;
+    width: 700px;
+}
+
+#bp-dream .bp-dream-content h3 {
+  font-size:32px;
+  font-weight:normal;
+  text-transform:capitalize;
+}
+
+.bp-dream-content p {
+    font-family: 'Open Sans',helvetica,arial,sans-serif;
+    font-size: 19px;
+    line-height: 28px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+
+
+/* BP Options */
+#bp-options {
+    padding: 50px 0;
+}
+
+.page-template-page-templatestemplate-blueprints-sales-page-php #container #bp-options .main {
+    border-top:1px solid #c2cbcc;
+    border-bottom:1px solid #c2cbcc;
+    max-width: 100%;
+    width:100%;
+}
+
+.diagonal-lines {
+    background: url("../img/blueprints/stripe.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    float: left;
+    height: 100%;
+    min-height: 1700px;
+    width: 14.9%;
+}
+
+.diagonal-lines#left-diagonal {
+  border-right: 1px solid #C2CBCC;
+}
+.diagonal-lines#right-diagonal {
+  border-left: 1px solid #C2CBCC;
+}
+
+#other-stuff .blueprints {
+  width: 900px;
+  margin: auto;
+}
+
+#main-blueprints-options-list article,
+#other-stuff .blueprints {
+  background:url("../img/blueprints/dark-pattern.png") repeat scroll 0 0 #509EA8;
+  color: #fff;
+  margin-bottom: 34px;
+  padding: 10px;
+}
+
+#main-blueprints-options-list article .options-internal,
+#other-stuff .blueprints .options-internal {
+  border:1px solid white;
+    position: relative;
+}
+
+
+#main-blueprints-options-list article .options-internal a,
+#other-stuff .blueprints .options-internal a {
+  color:white;
+}
+
+#main-blueprints-options-list article .options-internal h3 span,
+#other-stuff .blueprints .options-internal h3 span,
+#enrollment-form article h3 span {
+  color:#d4f4f7;
+  text-transform:uppercase;
+  display:block;
+  font-size:16px;
+}
+
+#main-blueprints-options-list article header,
+#other-stuff .blueprints header {
+    border-bottom: 1px solid #C2CBCC;
+    padding-top: 23px;
+}
+
+#main-blueprints-options-list article .options-internal h3, 
+#other-stuff .blueprints .options-internal h3, #enrollment-form header h3 {
+    float: left;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 0;
+    width: 71%;
+    /**/
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+/*#enrollment-form header h3*/
+
+#main-blueprints-options-list article .left,
+#other-stuff .blueprints .left {
+    float: left;
+    width: 42%;
+    border-right:1px solid #fff;
+}
+
+#main-blueprints-options-list article .right,
+#other-stuff .blueprints .right {
+    float: left;
+    width: 57.8%;
+    padding-bottom: 103px;
+    border-left: 1px solid #FFF;
+    margin: 0 -1px;
+}
+
+#main-blueprints-options-list article aside,
+#other-stuff .blueprints aside {
+    float: none;
+    padding: 30px;
+    width: 100%;
+}
+
+.options-internal aside ul,
+#other-stuff .blueprints .options-internal aside ul {
+    overflow: auto;
+}
+
+.options-internal aside ul li,
+.bottom-options-internal aside ul li,
+#other-stuff .blueprints .options-internal aside ul li,
+#other-stuff .blueprints .bottom-options-internal aside ul li {
+    background: url("../img/blueprints/blue-check.png") no-repeat scroll 0 7px rgba(0, 0, 0, 0);
+    font-family: 'montserrat';
+    font-size: 15px;
+    padding-left: 28px;
+    float:left;
+    margin: 10px 0 0;
+}
+
+#other-stuff .blueprints .bottom-options-internal aside {
+    float: none;
+    padding: 30px;
+}
+
+#main-blueprints-options-list article aside h4,
+.bottom-options-internal aside h4,
+#other-stuff .blueprints aside h4,
+#other-stuff .blueprints .bottom-options-internal aside h4 {
+    color:#d4f4f7;
+}
+
+.bp-option-content,
+#other-stuff .blueprints .bp-option-content {
+    padding: 23px;
+    font: 16px/24.5px 'open sans', sans-serif;
+}
+
+.options-internal footer,
+#other-stuff .blueprints .options-internal footer {
+  border-top: 1px solid #fff;
+  text-align: right;
+  padding: 15px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 42%;
+}
+.bottom-options-internal footer a.learn-more,
+#other-stuff .blueprints .bottom-options-internal footer a.learn-more {
+  color: #FFF;
+  text-decoration: none;
+  text-align: center;
+  margin: 0 0 0 15px;
+}
+.bottom-options-internal footer a.learn-more:hover,
+#other-stuff .blueprints .bottom-options-internal footer a.learn-more:hover {
+  text-decoration: underline;
+}
+
+#main-blueprints-options-list article .options-internal footer a,
+#other-stuff .blueprints .options-internal footer a {
+    color: #FFF;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#main-blueprints-options-list article .options-internal footer a.button,
+#other-stuff .blueprints .options-internal footer a.button {
+    background: #7AB1B8;
+    border: 1px solid #FFFFFF;
+    margin: 0 0 0 30px;
+    padding: 16px 18px;
+    text-transform: uppercase;
+}
+
+#main-blueprints-options-list article header .bp-icon-image,
+#other-stuff .blueprints header .bp-icon-image,
+#other-stuff .blueprints header figure {
+  float:left;
+  margin-left:23px;
+  margin-right:10px;
+}
+
+#main-blueprints-options-list article header .bp-icon-image img,
+#enrollment-form article header figure img,
+#other-stuff .blueprints header .bp-icon-image img,
+#other-stuff .blueprints header figure img {
+  display: block;
+}
+
+.bp-salary {
+    border-top: 1px solid #C2CBCC;
+    color: #2B4B4E;
+    font-family: 'montserrat';
+    font-weight: bold;
+    margin: 23px 0 0;
+    padding: 17px 0 13px 33px;
+    text-transform: uppercase;
+    clear:both;
+    line-height: normal;
+}
+
+.bp-option-content p {
+    font-size: 17px;
+    line-height: 29px;
+}
+
+
+/* How it Works */
+#bp-how-it-works {
+    clear: both;
+    padding-top: 70px;
+}
+
+#bp-howitworks-content {
+  max-width:1000px;
+  margin:auto;
+}
+
+#bp-howitworks-content ul {
+    padding: 70px 0 130px;
+    margin-bottom: 0;
+}
+
+#bp-howitworks-content ul li {
+  clear:both;
+  overflow: hidden;
+}
+
+#bp-howitworks-content ul li figure {
+  float:left;
+  width:360px;
+  margin-right:30px;
+}
+
+#bp-howitworks-content .even figure {
+  float:right;
+  margin-left:30px;
+  margin-right:0px;
+}
+
+#bp-howitworks-content .bp-works-content {
+  float:left;
+  width:600px;
+}
+
+#bp-howitworks-content .bp-works-content p {
+    color: #537278;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+#bp-howitworks-content .bp-works-content h3 {
+  font-weight:normal;
+  text-transform:uppercase;
+}
+
+#how-it-works-1 .bp-works-content {
+    margin-bottom: 50px;
+    padding-top: 14px;
+    width: 610px;
+}
+
+#how-it-works-2 .bp-works-content {
+    margin-bottom: 80px;
+    padding-top: 30px;
+    width: 590px;
+}
+
+#how-it-works-3 .bp-works-content {
+    margin-top: 20px;
+    width: 510px;
+}
+
+#bp-howitworks-content ul li#how-it-works-3 figure {
+    width: 450px;
+}
+
+#bp-whats-included p {
+    color: #537278;
+    font-size: 19px;
+    line-height: 30px;
+    margin-bottom: 0;
+    margin-top: 20px;
+    width: 710px;
+}
+
+#enrollment-form-container {
+  padding:100px 0;
+  background:white;
+}
+
+#download-boss-link {
+    border: 2px dotted #A2B1B4;
+    clear: both;
+    margin: 100px auto auto;
+    padding: 40px 40px 30px;
+    width: 85%;
+}
+
+#download-boss-link .download-link-content {
+    float: left;
+    /*width: 740px;*/
+}
+
+#download-boss-link .download-link-content p {
+    color: #537278;
+    font-size: 19px;
+    line-height: 28px;
+    margin-top: 12px;
+    width: 610px;
+}
+
+#download-boss-link .download-link-content h3 {
+  font-size:31px;
+  font-weight:normal;
+  color:#1c383c;
+}
+
+#download-boss-link figure {
+    float: left;
+    margin-left: 110px;
+    width: 170px;
+}
+
+#unemployed-content {
+  padding:80px 0;
+  text-align:center;
+}
+
+#bp-whats-included #unemployed-content p {
+    color: #456268;
+    font-size: 17px;
+    line-height: 30px;
+    margin: 20px auto;
+    width: 730px;
+}
+
+#bp-whats-included #unemployed-content p a {
+    border-bottom: 2px dotted #A2B1B4;
+  color: #456268;
+    text-decoration:none;
+  font-weight:bold;
+}
+
+/* Enrollment Form*/
+#enrollment-form header h3 {
+    line-height: normal;
+}
+#enrollment-form header h3,
+#enrollment-form article header figure {
+  display: inline-block;
+  vertical-align: middle;
+}
+#enrollment-form article header figure {
+  margin-left: 23px;
+  margin-right: 10px;
+}
+#enrollment-form article h3 span {
+  font: 15px 'Montserrat', sans-serif;
+  margin: 1px 0 2px;
+}
+
+#enrollment-form header {
+    padding-top: 20px;
+}
+
+#enrollment-form-container h2 {
+    font-size: 32px;
+    font-weight: normal;
+}
+
+#enrollment-form-container p {
+    color: #3B3B3B;
+    font-size: 19px;
+    line-height: 32px;
+    margin-top: 20px;
+    width: 780px;
+}
+#enrollment-form {
+    margin-bottom: 70px;
+    margin-top: 70px;
+    padding: 0;
+}
+
+#enrollment-form article {
+    background: url("../img/blueprints/dark-pattern.png") repeat scroll 0 0 #509EA8;
+   color: #ffffff;
+    float: left;
+    margin: 0 10px 40px;
+    padding: 10px;
+    width: 31.46%;
+}
+
+#enrollment-form article .bottom-options-internal {
+  border:1px solid white;
+  height: 520px;
+  position: relative;
+  padding-bottom: 160px;
+}
+
+#enrollment-form article footer {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+}
+
+#enrollment-form-container p.bp-salary {
+    border-top: 1px solid #C2CBCC;
+    color: #2B4B4E;
+    font-family: 'montserrat';
+    font-size: 19px;
+    line-height: 32px;
+    margin: 10px 0 10px;
+    padding-left: 30px;
+    padding-top: 11px;
+    text-transform: uppercase;
+    width: auto;
+}
+
+#enrollment-form header {
+    border-bottom: 1px solid;
+    padding: 0;
+    margin-bottom: 20px;
+    height: 121px;
+    line-height: 121px;
+}
+
+#enrollment-form header h3 a {
+  color:white;
+  display: block;
+}
+#enrollment-form-container .main > h4 {
+    font-family: 'open sans';
+    font-size: 20px;
+    margin: 70px 0 20px 0;
+    text-align: center;
+    text-transform: none;
+}
+
+#enrollment-form-container #visa {
+  width:283px;
+  margin:auto;
+}
+.bottom-options-internal ul {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#main-blueprints-options-list article aside {
+    float: none;
+    padding: 26px 30px 30px;
+    width: 100%;
+}
+
+.bottom-options-internal aside ul li {
+    background: url("../img/blueprints/blue-check.png") no-repeat scroll 0 5px transparent;
+    font: 400 16px/23px 'Montserrat', sans-serif;
+    margin: 0 0 13px;
+    padding-left: 24px;
+    float: none;
+}
+
+.bottom-options-internal aside {
+    float: none;
+    padding: 8px 7.5%;
+    min-height: 185px;
+}
+.bottom-options-internal aside h4 {
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.bottom-options-internal footer a.button {
+    background: none repeat scroll 0 0 #7AB1B8;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF !important;
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px auto 23px;
+    padding: 20px 0;
+    text-transform: uppercase;
+    width: 89%;
+}
+
+.bottom-options-internal aside {
+    width: 100%;
+}
+
+.bottom-options-internal footer a.learn-more {
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    margin-left: 0;
+}
+
+.single-sc_classes_sales .main-container a {
+    text-decoration: none;
+}
+
+.single-sc_classes_sales .one-class .what-youll-learn {
+  /*white-space: nowrap;*/
+}
+
+.one-class-100 .what-youll-learn span,
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .one-class-100 .what-youll-learn span,
+.single-sc_blueprints .one-class-100 p span {
+    background: url("../img/blueprints/100-small-check.png") no-repeat scroll 11px 6px;
+    padding-left: 31px;
+}
+.one-class-101 .what-youll-learn span,
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .one-class-101 .what-youll-learn span,
+.single-sc_blueprints .one-class-101 p span {
+    padding-left: 31px;
+    background: url("../img/blueprints/101-small-check.png") no-repeat scroll 11px 6px;
+}
+.one-class-102 .what-youll-learn span,
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .one-class-102 .what-youll-learn span,
+.single-sc_blueprints .one-class-102 p span {
+    padding-left: 31px;
+    background: url("../img/blueprints/102-small-check.png") no-repeat scroll 11px 6px;
+}
+.one-class-104 .what-youll-learn span,
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .one-class-104 .what-youll-learn span,
+.single-sc_blueprints .one-class-104 p span {
+    padding-left: 31px;
+    background: url("../img/blueprints/104-small-check.png") no-repeat scroll 11px 6px;
+}
+.one-class-103 .what-youll-learn span,
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .one-class-103 .what-youll-learn span,
+.single-sc_blueprints .one-class-103 p span {
+    background: url("../img/blueprints/103-small-check.png") no-repeat scroll 11px 6px;
+    padding-left: 31px;
+}
+.one-class-203 .what-youll-learn span,
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .one-class-203 .what-youll-learn span,
+.single-sc_blueprints .one-class-203 p span {
+    background: url("../img/blueprints/203-small-check.png") no-repeat scroll 11px 6px;
+    padding-left: 31px;
+}
+
+.one-class-Apprenticeship .what-youll-learn span,
+.page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .one-class-Apprenticeship .what-youll-learn span,
+.single-sc_blueprints .one-class-Apprenticeship p span {
+    background: url("../img/blueprints/apprenticeship-small-check.png") no-repeat scroll 11px 6px;
+    padding-left: 31px;
+}
+
+/* Bootcamp Page */
+.class-sales-page-section header h1 {
+    float: none;
+    font-family: 'Montserrat';
+    font-size: 41px;
+    font-weight: bold;
+}
+
+#skillcrush-bootcamp-sales-hero header h2 {
+    color: #999999;
+    font-family: 'open sans';
+    font-size: 24px;
+    font-weight: normal;
+    margin-top: 10px;
+    text-transform: none;
+}
+
+#skillcrush-bootcamp-sales-hero h3 {
+    color: #3b3b3b;
+    font: 18px/16px 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+    margin-top: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#skillcrush-bootcamp-sales-hero {
+  background: url(../img/backgrounds/Bootcamp_Image_Skillcrush.jpg) no-repeat center 0;
+  margin-top: -66px;
+  padding-top: 75px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#skillcrush-bootcamp-sales-hero .bootcamp-subscribe {
+  background: #fff;
+  border: 0;
+  width: 585px;
+  padding: 35px 25px;
+  min-height: 0;
+}
+
+/* Hero Section */
+
+
+.class-sales-page-section {
+  padding: 60px 0;
+  overflow: auto;
+}
+
+.class-sales-page-section h1,
+.class-sales-page-section h2 {
+  text-align:center;
+}
+
+
+.class-sales-page-section h1 {
+  margin-bottom:20px;
+}
+
+.class-sales-page-section h2 {
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.class-sales-page-section h3 {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+#about-bootcamp {
+    position: relative;
+    margin-top: 80px;
+    padding: 60px 0;
+    background: #f9f9f9
+}
+
+#more-about-bootcamp {
+  padding: 85px 0;
+}
+
+#more-about-bootcamp .main {
+  background: url(../img/blueprints/emily-bootcamp.png) no-repeat 0 0;
+  padding-left: 329px;
+  min-height: 354px;
+}
+
+#more-about-bootcamp h3 {
+  font: 32px/36.5px 'Montserrat', sans-serif;
+  margin: 0 0 15px;
+}
+
+#more-about-bootcamp p {
+    font-family: open sans;
+    font-size: 19px;
+    line-height: 28px;
+    margin-bottom: 62px;
+}
+
+#more-about-bootcamp ul {
+  margin-top: 40px;
+  margin-left: 4px;
+}
+
+#more-about-bootcamp li {
+  padding-left: 30px;
+  font: 600 19px/32.5px 'open sans', sans-serif;
+  margin-bottom: 20px;
+  background: url("../img/blueprints/light-red-check.png") no-repeat 0 9px;
+}
+
+#more-about-bootcamp h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.bootcamp-subscribe #login-page-header {
+  display:none;
+}
+
+.page .bootcamp-subscribe h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    text-align: center;
+}
+
+#about-bootcamp .main {
+  min-width: 0;
+  max-width: 850px;
+}
+
+#about-bootcamp h3 {
+    font: 32px/42.5px 'Montserrat', sans-serif;
+    margin: 0 0 70px;
+}
+
+.abt-wrap {
+  margin-bottom: 50px;
+}
+
+.abt-wrap img {
+  max-width: 328px;
+  float: left;
+}
+
+.abt-wrap-right img {
+  float: right;
+}
+
+.abt-wrap h4 {
+    font: 24px/31px 'Montserrat', sans-serif;
+    margin: 30px 0 20px;
+    text-transform: uppercase;
+}
+
+.abt-wrap p {
+  font: 16px/27px 'open sans', sans-serif;
+}
+
+.abt-wrap h4,
+.abt-wrap p {
+  margin-left: 395px;
+  max-width: 425px;
+}
+
+.abt-wrap-right h4,
+.abt-wrap-right p {
+  margin-right: 395px;
+  margin-left: 0;
+}
+
+#about-bootcamp ul li {
+    background: url("../img/icons/icon-green-arrow.png") no-repeat scroll 0 3px rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    font-family: 'open sans';
+    font-size: 19px;
+    font-weight: 200;
+    line-height: 28px;
+    margin-bottom: 20px;
+    padding-left: 50px;
+}
+
+#bootcamp-signup-text {
+  color:#6C6C6C;
+}
+
+#bootcamp-signup-wrapper {
+display:none;
+}
+
+a.tutorial-link,
+a.tutorial-link:link,
+a.tutorial-link:visited {
+    background: none repeat scroll 0 0 #DAD8D9;
+    border-radius: 4px;
+    color: #726F6F;
+    display: block;
+    float: right;
+    margin-top: 4px;
+    padding: 10px 5px;
+    text-align: center;
+    width: 200px;
+}
+
+a.tutorial-link:hover {
+  color:white;
+  text-decoration:none;
+}
+
+.bootcamp-subscribe .tml-action-links {
+  display:none;
+}
+
+.bootcamp-image {
+  position:absolute;
+  right:0;
+  top:0;
+}
+
+.bootcamp-subscribe {
+    background: url(../img/blueprints/Bootcamp_laptop.jpg) no-repeat 0 0;
+    margin: 80px auto 0;
+    padding: 50px 0 70px 680px;
+    min-height: 541px;
+}
+.bootcamp-subscribe .main { 
+  max-width: 805px;
+  min-width: 0;
+}
+
+.bootcamp-subscribe form + p {
+  display: none;
+}
+
+#registerform2 .message {
+    display: none;
+}
+
+
+.awesome-subscribe {
+  background: url("../img/global/big-cta-nails.png") no-repeat scroll right -1px #F4F3F3;
+  border: solid #EFEEEE;
+  border-width: 2px 0;
+  min-height: 440px;
+}
+.awesome-subscribe .main {
+  padding: 30px 525px 30px 25px;
+}
+
+#bottom-subscribe h3 {
+    font: 32px/44px 'Montserrat', sans-serif;
+    margin: 0 0 10px;
+}
+
+.bootcamp-subscribe .login {
+    margin: auto;
+    width: 445px;
+}
+
+.bootcamp-subscribe input[type="text"],
+.bootcamp-subscribe input[type="password"] {
+    border: 1px solid #CECCCC;
+    border-radius: 0;
+    box-shadow: none;
+    color: #3A3939;
+    float: left;
+    font-family: 'montserrat';
+    font-size: 20px;
+    padding: 10px 20px;
+    width: 402px;
+}
+
+.bootcamp-subscribe input[type="submit"] {
+    background: url("../img/icons/icon-white-arrow.png") no-repeat scroll 266px 16px #f15959;
+    border-radius: 0;
+    box-shadow: none;
+    color: #FFFFFF;
+    display: block;
+    font-size: 16px;
+    height: 54px;
+    margin-right: 10px;
+    padding: 14px 44px 14px 26px;
+    text-transform: uppercase;
+    width: 446px;
+}
+
+.bootcamp-subscribe input[type="submit"]:hover {
+  background:url("../img/icons/icon-white-arrow.png") no-repeat scroll 266px 16px #c53535;
+}
+
+#skillcrush-testimonials h2 {
+  text-align:center;
+  font-size:28px;
+  color:#999999;
+  text-transform:none;
+  margin-bottom: 30px;
+}
+
+#skillcrush-testimonials {
+  padding:90px 0px;
+  overflow:auto;
+}
+
+#skillcrush-testimonials .sc-testimonials li {
+    border-top: 1px solid #D4D4D4;
+    margin-bottom: 20px;
+    overflow: auto;
+    padding: 30px 0;
+}
+
+#skillcrush-testimonials li p {
+    background: url("../img/sales-page/red-quotes.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #3A3939;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 32px;
+    padding-top: 20px;
+}
+
+.sc-testimonials {
+  width:822px;
+  margin: 40px auto 100px;
+}
+
+.sc-testimonials .testimonial-copy h5 a {
+ font-size: 18px;
+    font-style: italic;
+  color: #3A3939;
+
+    font-weight: normal;
+}
+
+.testimonial-image {
+    float: left;
+    height: 180px;
+    overflow: hidden;
+    width: 180px;
+}
+
+.testimonial-image img {
+  width: 100%;
+  border-radius:300px;
+}
+
+.testimonial-copy {
+    float: left;
+    padding: 20px 30px 0;
+    width: 560px;
+}
+
+.bootcamp-subscribe .form {
+  overflow:auto;
+}
+
+.bootcamp-subscribe .error-container {
+    clear: left;
+    font-family: 'montserrat';
+    margin-top: 20px;
+    width: 390px;
+}
+
+.bootcamp-subscribe .success {
+    display: none;
+    font-family: 'montserrat';
+    margin-top: 20px;
+}
+
+.bootcamp-subscribe .success p {
+  font-family: 'montserrat';
+}
+
+.bootcamp-subscribe .success #custom-tweet-button .tweet-copy {
+  background: none repeat scroll 0 0 #E7F1FF;
+  border-radius: 3px 3px 3px 3px;
+  padding: 12px;
+  margin-bottom:10px;
+}
+
+.bootcamp-subscribe .success #custom-tweet-button .tweet-copy a {
+  color:#3A3939;
+}
+
+.bootcamp-subscribe .success h4 {
+  margin-top: 30px;
+}
+
+#skillcrush-bootcamp-mobile {
+  display:none;
+}
+
+.page-template-page-templatestemplate-bootcamp-sales-php {
+  color: #3B3B3B;
+}
+
+.page-template-page-templatestemplate-bootcamp-sales-php #testimonials {
+    margin-top: 70px;
+}
+.page-template-page-templatestemplate-bootcamp-sales-php #testimonials h4 {
+    font-size: 16px;
+}
+.page-template-page-templatestemplate-bootcamp-sales-php #testimonials h3 {
+    font: 32px/29.5px 'Montserrat', sans-serif;
+    margin-bottom: 60px;
+}
+
+
+/* Bootcamp Page */
+
+#skillcrush-bootcamp-sales-hero header h1 {
+  font: 50px/60px 'Montserrat', sans-serif;
+  width: 70%;
+  margin: 20px auto;
+  text-transform: uppercase;
+}
+.page-template-page-templatestemplate-bootcamp-sales-php .mepr_signup_table .mepr_signup_table_row {
+  display: block;
+  float: none;
+  margin-bottom: 19px;
+  width: 100%;
+  max-width: 100%;
+}
+.page-template-page-templatestemplate-bootcamp-sales-php .awesome-subscribe .mepr_signup_table > div {
+  width: 305px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 17px;
+  margin-bottom: 18px;
+}
+.page-template-page-templatestemplate-bootcamp-sales-php form.mepr-signup-form .submit-button#wp-submit {
+    width: 100%;
+    float: none;
+    margin: 0 auto -25px;
+    font-size: 18px;
+}
+
+ .awesome-subscribe form.mepr-signup-form .submit-button#wp-submit {
+    max-width: 630px;
+    margin-left: 0;
+}
+ .awesome-subscribe form + p {
+    display: none;
+ }
+
+.page-template-page-templatestemplate-bootcamp-sales-php form .mepr_signup_table_row.mepr_bold.mepr_price,
+.page-template-page-templatestemplate-bootcamp-sales-php form .mepr_signup_table_row.mepr_last_name,
+.page-template-page-templatestemplate-bootcamp-sales-php form .mepr_signup_table_row.mepr_first_name {
+  display:none;
+}
+
+.page-template-page-templatestemplate-bootcamp-sales-php form .mepr_signup_table .mepr_signup_table_row input,
+.page-template-page-templatestemplate-bootcamp-sales-php form .mepr_signup_table .mepr_signup_table_row textarea,
+.page-template-page-templatestemplate-bootcamp-sales-php form .mepr_signup_table .mepr_signup_table_row select,
+.page-template-page-templatestemplate-bootcamp-sales-php form .mepr_signup_table .mepr_signup_table_row .mepr_signup_table_cell {
+    border: 2px solid #D1D1D1;
+    box-shadow: none;
+    clear: both;
+    display: block;
+    padding: 10px 20px;
+    height: 65px;
+    max-width: 100% !important;
+    min-width: 260px !important;
+    width: 100%;
+    float: none;
+    background: #fff;
+    font: 18px/43px 'open sans', sans-serif;
+}
+.page-template-page-templatestemplate-bootcamp-sales-php .awesome-subscribe  form .mepr_signup_table .mepr_signup_table_row input{
+    height: 54px;
+    padding: 5px 20px;
+}
+.page-template-page-templatestemplate-bootcamp-sales-php #bottom-subscribe form {
+    margin: 0;
+    padding-top: 18px;
+    width: auto;
+}
+
+.page-template-page-templatestemplate-bootcamp-sales-php .user-notloggedin .site-header {
+    display: block;
+    padding-bottom: 0;
+    position: static;
+}
+.page-template-page-templatestemplate-bootcamp-sales-php .mepr_signup_table {
+    padding-bottom: 0;
+    border: 0;
+    overflow: visible;
+}
+
+.page-template-page-templatestemplate-bootcamp-sales-php .user-notloggedin {
+    padding: 0;
+}
+
+#bootcamp-about p {
+    font-family: 'Montserrat',serif;
+    font-size: 31px;
+    line-height: 41px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    color:#3b3b3b;
+}
+
+#bootcamp-about ul {
+  margin: 0 0 0 15px;
+  padding: 0;
+}
+
+#bootcamp-about ul li {
+  padding-left: 30px;
+  font: 19px/30px 'open sans', sans-serif;
+  margin-bottom: 30px;
+  background: url("../img/blueprints/light-red-check.png") no-repeat 0 9px;
+}
+
+#hero-about ul, #imagine-list ul {
+    border-top: 1px solid #D4D4D4;
+    margin: 0 7% 20px;
+    width: 86%;
+}
+
+#hero-about ul li,
+#imagine-list ul li,
+#class-prerequisites ul li {
+    background: url("../img/sales-page/icon-checkmark.png") no-repeat scroll 20px 40px transparent;
+    border-bottom: 1px solid #D4D4D4;
+    font-family: 'open sans';
+    font-size: 22px;
+    line-height: 34px;
+    padding: 30px 0 30px 100px;
+  color:#6C6C6C;
+  margin-bottom: 0;
+}
+
+
+.post-template-single-sc_blueprints-php .site-header,
+.single-sc_blueprints .site-header,
+.page-template-page-templatestemplate-blueprints-sales-page-php .site-header {
+  position: absolute;
+  width: 100%;
+  z-index: 999;
+  top: 0;
+}
+
+#main-blueprints-options-list {
+  float: left;
+  padding: 60px 4%;
+  width: 70%;
+}
+
+.post-template-page-templates\/template-blueprintpurchasestep1-php {
+    background: none;
+}
+
+.mepr_signup_table_row.mepr_bold.mepr_price {
+  display: none;
+}
+
+
+/* BP Letter */
+#bp-letter {
+    height: 1700px;
+    margin: 80px 0 0;
+    overflow: hidden;
+    padding-bottom: 80px;
+}
+
+#bp-letter .main {
+  position:relative;
+}
+
+#bp-letter-image {
+  float:left;
+  width:720px;
+  position:relative;
+  left:-180px;
+  z-index: 1;
+  bottom:-80px;
+}
+
+.bp-letter-content {
+    left: 510px;
+    position: absolute;
+    top: 60px;
+    width: 690px;
+}
+
+.bp-letter-content p.featured {
+    font-size: 19px;
+    line-height: 32px;
+}
+
+.bp-letter-content h4 {
+    color: #3B3B3B;
+    font-family: 'open sans';
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-transform: none;
+}
+
+.bp-letter-content .list {
+    background: none repeat scroll 0 0 #F8F7F6;
+    margin: 28px 0;
+    padding: 30px;
+}
+
+.bp-letter-content .list h5 {
+    font-family: 'open sans';
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.bp-letter-content .list li {
+    background: url("../img/blueprints/light-red-check.png") no-repeat scroll 0 9px rgba(0, 0, 0, 0);
+    padding-left: 28px;
+}
+
+.bp-letter-content .guarantee {
+    border-bottom: 2px dotted #DEDDDD;
+    border-top: 2px dotted #DEDDDD;
+    margin-bottom: 30px;
+    padding: 20px 20px;
+    margin-top: 48px;
+}
+
+.bp-letter-content .guarantee h3 {
+    color: #70C9AB;
+    font-family: 'open sans';
+    font-size: 26px;
+    font-style: italic;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+
+/* The Program Styles */
+#bp-program {
+    height: 640px;
+    background: url('../img/blueprints/computer.jpg') no-repeat -340px 0;
+    margin-bottom: 50px;
+    margin-top: 60px;
+    max-width: 1400px;
+}
+
+.bp-program-content {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #3B3B3B;
+    font-size: 20px;
+    line-height: 28px;
+    margin-left: 41%;
+    min-width: 500px;
+    padding: 20px;
+    width: 59.25%;
+}
+
+.bp-program-content h2 {
+    font-size: 32px;
+    font-weight: normal;
+    line-height: 38px;
+    margin-bottom: 20px;
+}
+
+.bp-program-content h2 span {
+  font-size:18px;
+  text-transform:uppercase;
+}
+
+.bp-program-content p.featured {
+  font-size:19px;
+  color:#3b3b3b;
+  line-height:28px;
+}
+
+.bp-program-content p {
+  font-size:16px;
+  line-height:24px;
+}
+
+.bp-program-content blockquote {
+  border-left:4px solid #d7dada;
+  padding-left:20px;
+  font-style:italic;
+  font-size:19px;
+  margin-bottom:20px;
+  color:#3b3b3b;
+}
+
+/* Abilities Interstitials */
+#bp-abilities {
+  background:#f16059;
+  padding:60px 0;
+  color:white;
+}
+
+#bp-abilities h2 {
+    color: #AA2A24;
+    font-size: 32px;
+    text-align: center;
+font-weight:normal;
+margin-top: 0;
+}
+
+#bp-abilities h2 strong {
+  font-weight:bold;
+}
+
+#bp-abilities h2 span {
+    font-size: 18px;
+    text-align: center;
+text-transform:uppercase;
+}
+
+#bp-abilities ul li {
+    background: url("../img/blueprints/icon-red-check.png") no-repeat scroll 9px 6px rgba(0, 0, 0, 0);
+    color: #FFFFFF;
+    float: left;
+    font-size: 16.5px;
+    font-weight: 600;
+    margin-right: 0;
+    padding-left: 29px;
+    text-transform: uppercase;
+}
+
+#bp-abilities ul {
+  margin-left:0;
+  margin-top:20px;
+}
+
+/* Class Specific Colors */
+.single-sc_classes_sales .sales-hero-104, 
+.single.single-sc_classes_sales .purchase-104 .class-purchase-box.purchase-box {
+  background: none repeat scroll 0 0 #f76565;
+}
+
+.single-sc_classes_sales .sales-hero-103, 
+.single.single-sc_classes_sales .purchase-103 .class-purchase-box.purchase-box {
+  background: none repeat scroll 0 0 #72c5dc;
+}
+
+.single-sc_classes_sales .sales-hero-203, 
+.single.single-sc_classes_sales .purchase-203 .class-purchase-box.purchase-box {
+  background: none repeat scroll 0 0 #31a6c8;
+}
+
+.single.single-sc_classes_sales .purchase-103 .class-purchase-box {
+    background: none repeat scroll 0 0 #72c5dc;
+}
+
+.single.single-sc_classes_sales .purchase-203 .class-purchase-box {
+    background: none repeat scroll 0 0 #31a6c8;
+}
+
+.completed-classes {
+  padding-bottom: 60px;
+}
+.completed-classes .cd-title span {
+  padding-left: 0;
+}
+.completed-classes .skills-tags strong {
+  text-transform: uppercase;
+}
+.completed-classes .cd-title {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+.completed-classes p {
+  font-size: 17px;
+}
+.completed-classes .one-class {
+  max-width: 960px;
+  margin: 80px auto 0;
+  overflow: hidden;
+}
+.completed-classes .class-icon {
+  max-width: 320px;
+}
+.completed-classes .class-details h4 {
+  text-transform: uppercase;
+  padding: 10px 0 5px;
+  font-weight: normal;
+  font-size: 1.125em;
+}

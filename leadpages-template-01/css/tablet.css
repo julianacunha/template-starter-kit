@@ -1,0 +1,1374 @@
+@media screen and (min-width: 960px) and (max-width: 1200px){ 
+    .main {
+        padding-right: 20px;
+        padding-left: 20px;
+        max-width: 1160px;
+        min-width: 960px;
+    }
+    .awesome-subscribe {
+        background-size: cover;
+        min-height: 0;
+    }
+    .page-template-page-templatestemplate-bootcamp-sales-php .awesome-subscribe .mepr_signup_table > div {
+        width: 100%;
+    }
+    #bootcamp-about ul li {
+        margin-bottom: 15px;
+    }
+    .bootcamp-subscribe {
+        background-position: -205px 0;
+        padding: 40px 0 70px 430px;
+    }
+    .page-template-page-templatestemplate-bootcamp-sales-php #testimonials {
+        padding: 0 10px;
+    }
+
+	/* Individual Blueprint Pages */
+	aside#numbers-sidebar {
+    	border: medium none;
+    	clear: both;
+    	max-width: 100%;
+    	width: 100%;
+	}
+	
+	#bp-class-details .class-details-main {
+		max-width: 100%;
+    	padding-top: 40px;
+    	width: 100%;
+	}
+	
+	#numbers-sidebar li {
+    	float: left;
+    	width: 48%;
+	}
+	
+	.single-sc_blueprints #main-blueprints-options-list {
+    	border-right: medium none;
+	}
+
+	.one-class .class-icon {
+    	width: 18%;
+        margin-right: 5%;
+	}
+    .one-class .class-details {
+        width: 77%;
+    }
+
+    #main-blueprints-options-list article .options-internal footer a, 
+    #other-stuff .blueprints .options-internal footer a {
+        display: block;
+        text-align: center;
+        float: none;
+        margin: 10px 0;
+    }
+    #bp-dream .bp-dream-content {
+        width: 65%;
+        padding-top: 0;
+    }
+    #bp-dream-image {
+        width: 30%;
+        margin-right: 0;
+        padding-left: 0;
+    }
+   #bp-dream .main {
+        padding: 0 20px;
+    }
+    #bp-testimonial-1 figure {
+        width: 30%;
+        margin-top: 20px;
+    }
+    #bp-testimonial-1 figure img {
+        max-width: 100%;
+    }
+    #bp-testimonial-1 .bp-testimonial-content {
+        width: 70%;
+    }
+    #sales-hero .hero-content {
+        clear: both;
+    }
+    #bp-howitworks-content ul li {
+        padding: 0 10px;
+    }
+    #bp-howitworks-content ul li figure {
+        width: 300px;
+    }
+    #bp-howitworks-content figure img {
+        max-width: 100%;
+    }
+    #bp-howitworks-content .even figure {
+        margin-right: 10px;
+    }
+    #bp-howitworks-content ul li#how-it-works-3 figure {
+        width: 300px;
+    }
+    #how-it-works-3 .bp-works-content {
+        margin-top: -20px;
+    }
+    #bp-howitworks-content ul {
+        padding: 50px 0;
+    }
+    .bp-included-main-content {
+        margin-bottom: 50px;
+    }
+    #bp-whats-included {
+        padding: 50px 20px;
+    }
+    #download-boss-link {
+        margin-top: 50px;
+    }
+    #download-boss-link figure {
+        margin-left: 0;
+    }
+    #download-boss-link .download-link-content {
+        width: 560px;
+    }
+    #download-boss-link .download-link-content p {
+        width: auto;
+    }
+    #enrollment-form-container {
+        padding: 50px 20px;
+    }
+    #enrollment-form {
+        padding: 0;
+    }
+    #enrollment-form article {
+        width: 45%;
+        height: 600px;
+    }
+    #enrollment-form article .bottom-options-internal {
+        height: 560px;
+    }
+    .diagonal-lines {
+        width: 5%;
+    }
+    .page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .one-class, 
+    .single-sc_classes_sales #other-stuff .one-class {
+        padding: 30px;
+        float: none;
+        width: 90%;
+        margin: 0 auto 30px;
+        overflow: hidden;
+    }
+    #enrollment-form header h3 {
+        margin-bottom: 20px;
+    }
+    #main-blueprints-options-list {
+        width: 90%;
+    }
+    .single-sc_classes_sales #sales-hero .sales-hero-main {
+        width: 100%;
+    }
+    .archive-main-content article.trading-card {
+        width: 30%;
+        margin: 0 1.5% 60px;
+    }
+    .archive-main-content article.trading-card.project .ss_screenshot_link img {
+        width: 100%;
+    }
+    .page-template-page-templatestemplate-dashboard-php #mightybell,
+    .dashboard-blog-post {
+        min-width: 0;
+        width: auto
+    }
+    .page-template-page-templatestemplate-dashboard-php #mightybell-img,
+    .page-template-page-templatestemplate-dashboard-php .dashboard-blog-post .post-main-image {
+        width: 32%;
+    }
+    .page-template-page-templatestemplate-dashboard-php #mightybell-img img,
+    .page-template-page-templatestemplate-dashboard-php .dashboard-blog-post .post-main-image img {
+        width: 100%;
+    }
+    .single-sc_projects aside {
+        width: 30%;
+        margin-right: 7%;
+    }
+
+    .editor-area.slidein,
+    #preview-area.slidein {
+        width: 50%;
+    }
+    #preview-area.slidein {
+        left: 50%;
+        width: 50% !important;
+    }
+    #slider #tabs {
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 960px){
+    .awesome-subscribe {
+        background-size: cover;
+        min-height: 0;
+    }
+    .awesome-subscribe .main {
+        padding: 30px 250px 30px 25px;
+    }
+    .bootcamp-subscribe {
+        padding: 470px 10px 0;
+        background-size: 80%;
+    }
+    #bootcamp-about ul li {
+        margin-bottom: 15px;
+    }
+    .page-template-page-templatestemplate-bootcamp-sales-php .awesome-subscribe .mepr_signup_table > div {
+        width: 100%;
+    }
+    .page-template-page-templatestemplate-bootcamp-sales-php #bottom-subscribe form {
+        padding-right: 100px;
+    }
+
+    #skillcrush-bootcamp-sales-hero header h1 {
+        font: 43px/55px 'Montserrat', sans-serif;
+        margin: 20px auto 0;
+    }
+
+    .main {
+        min-width: 0;
+        max-width: 920px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .social-like-buttons .fb_iframe_widget,
+    .social-like-buttons .twitter-follow {
+        display: inline-block !important;
+        float: none;
+        width: auto !important;
+        vertical-align: middle;
+    }
+    .social-like-buttons {
+        float: none;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .footer-links {
+        float: none;
+    }
+    .social-like-buttons .twitter-follow {
+        height: 20px;
+    }
+    body.home .main-container {
+        margin-bottom: -110px;
+    }
+    #site-footer, .main-container:after {
+        height: 110px;
+    }
+    .menu-item a, .log-out-link a {
+        margin: 2px 0 0;
+    }
+
+    /* home page */
+    .homepage-container .mc-field-group {
+        width: 100%;
+        white-space: nowrap;
+    }
+    .homepage-container #mce-EMAIL {
+        min-width: 0;
+    }
+    .homepage-container #mc-embedded-subscribe {
+        width: 37%;
+        min-width: 0;
+        padding: 15px 0;
+    }
+    #homepage-form {
+        min-height: 0;
+    }
+
+    /* about page */
+    #hello .content {
+        max-width: 100%;
+    }
+    #employees .employer {
+        margin-top: 10px;
+        padding-top: 10px;
+        padding-left: 35%;
+        padding-right: 0;
+    }
+    #employees .employer.even {
+        padding-right: 35%;
+        padding-left: 0;
+    }
+    #employees .employer .img-wrap {
+        width: 30%;
+        background-size: 100% auto;
+        background-position: center;
+    }
+    #employees .employer:first-child + .even .img-wrap,
+    #employees .employer.angela-wyman .img-wrap,
+    #employees .employer.randle-browning .img-wrap {
+        width: 50%;
+        background-size: 100% auto;
+        z-index: -1;
+    }
+    #employees .employer.angela-wyman .img-wrap {
+        left: -10%;
+    }
+    #employees .employer.randle-browning .img-wrap {
+        right: -10%;
+    }
+    #employees .employer .text-wrap {
+        background: rgba(255,255,255, 0.8);
+        padding: 0 0 20px;
+    }
+    #featured-video p {
+        padding-right: 0;
+    }
+    #featured-video .video-link {
+        width: 60%;
+        margin-right: 20px;
+    }
+    #featured_podcast {
+        min-width: 0;
+        padding: 20px 40px;
+    }
+    #featured_podcast .featured_podcast_link {
+        width: 17%;
+        margin-right: 3%;
+        background-size: 100%;
+    }
+    #featured_podcast .podcast-wrap {
+        width: 79%;
+    }
+    #aboutQuotes blockquote,
+    #aboutQuotes blockquote.quote-2  {
+        margin: 0 1%;
+        padding: 10px;
+    }
+    #aboutQuotes blockquote img {
+        margin-top: 20px;
+        display: block;
+        max-width: 100%;
+    }
+    #featured-video h4, #aboutQuotes h4 {
+        margin-top: 40px;
+    }
+    #testimonials .class-proof {
+        padding: 20px 0;
+    }
+    #bootcamp {
+        padding: 20px 0;
+    }
+    .single.single-sc_classes_sales #bootcamp figure,
+    .horizontal-boot  #bootcamp figure {
+        margin-right: 2%;
+        width: 28%;
+    }
+    .single.single-sc_classes_sales #bootcamp figure img,
+    .horizontal-boot #bootcamp figure img {
+        max-width: 100%;
+    }
+    .single.single-sc_classes_sales #bootcamp #mc-embedded-subscribe,
+    .horizontal-boot  #bootcamp #mc-embedded-subscribe {
+        padding: 13px 25px 14px;
+    }
+    .horizontal-boot.red-boot #bootcamp #mce-EMAIL,
+    .horizontal-boot.red-boot #bootcamp #mc-embedded-subscribe {
+        width: 100%;
+    }
+
+
+    /* blog page */
+    .blog-header .main {
+        padding: 0;
+    }
+    .affix .blog-categories {
+        clear: both;
+        margin: 0;
+        border-top: 1px dotted #d7d5d5;
+        text-align: center;
+    }
+    .blog-categories li {
+        padding: 0 10px;
+    }
+    .blog-categories li.all {
+        display: none;
+    }
+    .blog-landing .post-main-image {
+        height: 150px;
+        margin-bottom: 10px;
+    }
+    .blog-landing .post-teaser.first .post-main-image {
+        height: 220px;
+    }
+    .blog-landing .post-teaser {
+        padding: 14px 10px 50px;
+        height: 500px;
+    }
+    .blog-landing .post-teaser.pl-right,
+    .blog-landing .post-teaser.pl-left {
+        height: 250px;
+    }
+    .blog-landing .post-teaser.first {
+        height: 600px;
+    }
+    .blog-landing .popular-posts-list li {
+        padding: 10px 0 10px 90px;
+        font-size: 0;
+        line-height: 0;
+        height: 180px;
+    }
+    .blog-landing .post-teaser.first .entry-title:after {
+        display: none;
+    }
+    .blog-landing .popular-posts-list a.popular-posts-read-more {
+        margin: 5px 0;
+    }
+    .blog-landing .popular-posts-list .wpp-thumbnail {
+        max-width: 65px;
+        max-height: 65px;
+        left: 15px;
+    }
+    .blog-landing #newsletter-signup {
+        padding: 30px 0 15px 0;
+    }
+    .blog-landing .popular-posts-list a {
+        font-size: 16px;
+        line-height: normal;
+    }
+    .blog-landing .entry-title {
+        line-height: 20px;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .blog-landing .pl-left .entry-title {
+        margin: 5px 0;
+    }
+    .blog-landing p {
+        line-height: 20px;
+        font-size: 14px;
+    }
+    .blog-landing .post-long .post-main-image {
+        width: 150px;
+        height: 150px;
+    }
+    .blog-landing #bootcamp {
+        min-width: 0;
+        min-height: 0;
+    }
+    .blog-landing #bootcamp figure img {
+        max-width: 75%;
+    }
+    .blog-landing #bootcamp .main {
+        min-width: 0;
+        height: 470px;
+        padding: 0 10px;
+    }
+    .blog-landing #bootcamp .bootcamp-content {
+        width: 100%;
+    }
+    .blog-landing #bootcamp h3 {
+        padding: 0;
+        line-height: normal;
+        font-size: 22px;
+        margin: 0;
+    }
+    .blog-landing #bootcamp p {
+        padding: 0;
+        line-height: normal;
+        font-size: 14px;
+    }
+    .blog-landing #bootcamp figure {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .blog-landing #mc_embed_signup {
+        padding: 0;
+    }
+    .blog-landing #mc_embed_signup #mc-embedded-subscribe {
+        font-size: 14px;
+        padding: 10px;
+    }
+    .blog-landing #mc_embed_signup #mce-EMAIL,
+    .blog-landing #mc_embed_signup #mc-embedded-subscribe  {
+        height: 50px;
+    }
+    .blog-landing .read-more-link {
+        bottom: 20px;
+    }
+    .individual-content .post-main-image {
+        width: auto;
+    }
+    .blog-landing .blog-prev-link, 
+    .blog-landing .navigation .last,
+    .blog-landing .blog-next-link,
+    .blog-landing .navigation .nextpostslink {
+        line-height: 60px;
+    }
+    .blog-landing .navigation {
+        height: 60px;
+    }
+
+    /* sales pages */
+    .single-sc_blueprints #main-blueprints-options-list > header {
+        width: auto;
+    }
+    #numbers-sidebar li#total-jobs p {
+        font-size: 85px;
+        padding: 0;
+    }
+    .about-bootcamp-text {
+        position: relative;
+        z-index: 1;
+    }
+        
+    /* Profile user page */
+    
+    .author-info .main {
+        margin: 0;
+    }
+
+    .my-projects .archive-main-content .trading-card {
+        margin: 0 2.5% 35px;
+        width: 45%;
+    }
+    .archive-main-content article.trading-card.project .ss_screenshot_link img {
+        width: 100%;
+    }
+
+    .archive-main-content {
+        padding: 0 5%;
+    }
+    
+    .main .footer-links {
+        text-align: center;
+    }
+
+    #container .email-contact .main h3 {
+        padding: 0 10px;
+    }
+    section.my-projects {
+        margin: 0;
+    }
+    /* End Profile user page */
+
+    /* Siggin pages */
+    .user-notloggedin #mepr_loginform,
+    .user-notloggedin .error,
+    #mepr_forgot_password_form {
+        width: 355px;
+    }
+    .red-main-for-login h3 {
+        margin-top: 10px;
+    }
+
+    #unauthorized form label,
+    .red-main-for-login label {
+        display: block;
+        margin-right: 0;
+    }
+    #mepr_forgot_password_form label {
+        color: #fff;
+        font-size: 16px;
+        text-align: center;
+    }
+    #mepr_forgot_password_form input[type="text"] {
+        margin-top: 10px;
+    }
+    #mepr_forgot_password_form #wp-submit {
+        height: 50px;
+    }
+    #more-about-bootcamp p {
+        padding: 0 20px;
+    }
+    .sc-testimonials {
+        width: auto;
+    }
+    .testimonial-copy {
+        float: none;
+        width: auto;
+        padding-left: 200px;
+    }
+    .page-template-page-templatestemplate-mp-unauthorized-php #container {
+        padding-bottom: 0;
+    }
+    #unauthorized .main {
+        padding: 0 300px 0 30px;
+        background-position: 100px bottom;
+        min-height: 645px;
+    }
+    .page-template-page-templatestemplate-mp-unauthorized-php .sub-footer,
+    .page-template-page-templatestemplate-mp-unauthorized-php .sub-footer .footer-copyright {
+        margin: 20px 0 0;
+    }
+    #unauthorized #wp-submit,
+    #unauthorized #mepr_loginform input[type="text"], 
+    #unauthorized #mepr_loginform input[type="password"] {
+        width: 100%;
+        height: 50px;
+    }
+
+    .page #sales-hero header h1 {
+        float: none;
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+    #sales-hero .hero-content {
+        max-width: 635px;
+    }
+    #sales-hero .hero-content p {
+        font: 20px /30px 'open sans', sans-serif;
+    }
+    #bp-program {
+        background-size: 80%;
+        overflow: hidden;
+    }
+    #bp-letter-image {
+        width: 40%;
+        left: -85px;
+        top: 40px;
+        z-index: -1;
+    }
+	#bp-letter {
+		height:auto;
+	}
+    #bp-letter-image img {
+        width: 140%;
+    }
+    .bp-letter-content {
+        position: static;
+        margin-left: 35%;
+        width: auto;
+        margin-right: 5%;
+    }
+    .individual-content  .entry-content {
+        margin-right: 0;
+    }
+    .horizontal-boot #bootcamp .main {
+        min-width: 0;
+    }
+    #bootcamp figure {
+        width: 28%;
+        margin-right: 2%;
+    }
+    #bootcamp figure img {
+        max-width: 100%;
+        width: 100%;
+    }
+    #bootcamp .bootcamp-content {
+        float: left;
+        width: 70%;
+    }
+    .bp-program-content { 
+        min-width: 0;
+        width: auto;
+        margin-left: 38%;
+    }
+    #bp-testimonial-1 figure {
+        width: 35%;
+    }
+    .blueprint-sales-page-section img {
+        width: 100%;
+    }
+    .blueprint-sales-page-section .bp-letter-content img {
+        width: auto;
+        max-width: 100%;
+    }
+    .blueprint-sales-page-section .testimonial-content {
+        margin: 20px 0;
+        width: auto;
+    }
+    .testimonial-content p {
+        line-height: normal;
+    }
+    .single-sc_blueprints #sales-hero {
+        background-size: cover;
+    }
+    #bp-testimonial-1 {
+        padding-bottom: 0;
+    }
+    #bp-testimonial-1 .bp-testimonial-content {
+        float: left;
+        width: 65%;
+    }
+    #bp-testimonial-1 figure {
+        margin-top: 20px;
+    }
+    #bp-dream .bp-dream-content {
+        float: right;
+        width: 65%;
+        padding-top: 0;
+    }
+    #bp-dream-image {
+        width: 30%;
+        margin-right: 0;
+        padding-left: 0;
+    }
+    #bp-options {
+        padding: 30px 0;
+    }
+    .diagonal-lines {
+        display: none;
+    }
+    #main-blueprints-options-list {
+        width: 100%;
+        padding: 30px 2%;
+    }
+    #main-blueprints-options-list .bp-icon-image {
+        width: 13%;
+    }
+    #main-blueprints-options-list article .options-internal h3,
+    #other-stuff .blueprints .options-internal h3 {
+        padding-left: 15px;
+        width: 100%;
+    }
+    #enrollment-form header h3 {
+        margin-bottom: 0;
+        padding-left: 15px;
+    }
+    #enrollment-form figure img {
+        max-width: 100%;
+    }
+    .blueprint-profile ul {
+        padding-bottom: 0;
+    }
+    .postid-17314 aside#numbers-sidebar, 
+    .postid-45594 aside#numbers-sidebar {
+        border-left: 0;
+    }
+    #main-blueprints-options-list article header,
+    #other-stuff .blueprints header {
+        padding-top: 15px;
+    }
+    #main-blueprints-options-list article aside,
+    .bp-option-content, #other-stuff .blueprints .bp-option-content {
+        padding: 15px;
+    }
+    .bp-salary {
+        padding-left: 15px;
+    }
+    #main-blueprints-options-list article .right, #other-stuff .blueprints .right {
+        padding-bottom: 160px;
+    }
+    #main-blueprints-options-list article .options-internal footer a.button, #other-stuff .blueprints .options-internal footer a.button {
+        margin-left: 0;
+    }
+    #main-blueprints-options-list article header .bp-icon-image,
+    #other-stuff .blueprints header .bp-icon-image,
+    #other-stuff .blueprints header figure {
+      display: none;
+    }
+    #enrollment-form article header figure {
+        margin: 0;
+        width: 15%;
+        line-height: 30px;
+    }
+    #enrollment-form figure a {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    #main-blueprints-options-list header h2,
+    #other-stuff .blueprints header h2 {
+      font-size: 26px;
+    }
+
+    .options-internal footer {
+        text-align: center;
+    }
+    #main-blueprints-options-list article .options-internal footer a, 
+    #other-stuff .blueprints .options-internal footer a {
+        margin: 10px 0;
+        float: none;
+        display: block;
+    }
+    #bp-howitworks-content {
+        width: auto;
+    }
+    #bp-howitworks-content ul li figure,
+    #bp-howitworks-content ul li#how-it-works-3 figure {
+        width: 34%;
+        margin-right: 4%;
+        margin-top: 2em;
+    }
+    #bp-howitworks-content ul .even figure {
+        margin-left: 4%;
+    }
+    #bp-howitworks-content .bp-works-content {
+        width: 60%;
+        padding-top: 0;
+        margin-bottom: 40px;
+    }
+    #bp-howitworks-content ul {
+        padding-bottom: 5px;
+    }
+    #download-boss-link {
+        padding: 20px;
+        width: 90%;
+        margin-top: 0;
+    }
+    #download-boss-link figure {
+        margin: 0 20px 0 0;
+        width: 15%;
+    }
+    #download-boss-link .download-link-content {
+        width: 75%;
+    }
+    #download-boss-link .download-link-content p {
+        width: auto;
+    }
+    #enrollment-form-container {
+      padding: 50px 20px;
+    }
+    #enrollment-form-container p {
+      width: auto;
+    }
+    #enrollment-form {
+        padding: 0;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    #enrollment-form article {
+        height: 550px;
+        width: 45%;
+        padding: 2%;
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+        text-align: left;
+    }
+    #unemployed-content {
+        padding-bottom: 0;
+    }
+    #enrollment-form article .bottom-options-internal {
+        height: 510px;
+    }
+    #enrollment-form header {
+        padding: 10px;
+        height: auto;
+        line-height: normal;
+    }
+    #enrollment-form figure {
+        margin-left: 0;
+        width: 20%;
+    }
+    .bp-included-main-content {
+        margin-bottom: 40px;
+    }
+    .bp-included-main-content li {
+        padding-top: 40px;
+        height: auto;
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+    }
+    #bp-whats-included {
+        padding: 40px 0;
+    }
+    .page-template-page-templatestemplate-blueprints-sales-page-php #single-classes .one-class,
+    .single-sc_classes_sales #other-stuff .one-class {
+      padding: 30px 20px 20px;
+    }
+    .one-class .class-icon {
+        width: 20%;
+        margin-right: 2%;
+    }
+    .one-class .class-details {
+        width: 78%;
+    }
+    .bottom-options-internal aside {
+        padding: 10px 5%;
+    }
+    .what-they-do {
+        padding: 0 20px 20px 0;
+    }
+    #bp-class-details .class-details-main {
+        width: 50px;
+        padding-top: 40px;
+    }
+    #numbers-sidebar {
+        width: 50%;
+    }
+    #numbers-sidebar img {
+        max-width: 100%;
+    }
+    .blueprint-profile {
+        padding-top: 20px;
+    }
+    .blueprint-profile header {
+        padding: 0 0 20px 20px;
+    }
+    .blueprint-profile header h2 {
+        font-size: 32px;
+        width: 80%;
+    }
+    .blueprint-profile img {
+        right: 0;
+    }
+
+    /* Individual Blueprint Pages */
+	aside#numbers-sidebar {
+    	border: medium none;
+    	clear: both;
+    	max-width: 100%;
+    	width: 100%;
+	}
+	
+	#bp-class-details .class-details-main {
+		max-width: 100%;
+    	padding-top: 40px;
+    	width: 100%;
+	}
+	
+	#numbers-sidebar li {
+    	float: left;
+    	width: 48%;
+        margin: 2% 1%;
+	}
+    #developer-number #avg-salary img {
+        max-width: 100%;
+        left: 0;
+        right: 0;
+        z-index: -1;
+    }
+	
+	.single-sc_blueprints #main-blueprints-options-list {
+    	border-right: medium none;
+	}
+
+	.one-class .class-icon {
+    	width: 18%;
+	}
+	
+	#all-classes {
+    	padding: 60px 20px;
+	}
+	
+	/* Single Class Styles */
+	.single.single-sc_classes_sales #class-breakdown .class-breakdown-preview {
+    	background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    	height: auto;
+    	margin: 50px auto;
+    	overflow: hidden;
+    	padding-top: 50px;
+    	width: 100%;
+	}
+
+	.single.single-sc_classes_sales #class-breakdown .preview {
+    	background: none repeat scroll 0 0 white;
+    	height: 100%;
+    	margin: 0 auto auto;
+    	width: 100%;
+	}
+	
+	.single.single-sc_classes_sales #class-breakdown .breakdown {
+    	display: block;
+    	float: none;
+    	width: 100%;
+	}
+	
+	.breakdown.class-breakdown-left img,
+	.breakdown.class-breakdown-right img {
+		display:none;
+	}
+	
+	.single.single-sc_classes_sales #week-breakdown .classes {
+    	max-width: 100%;
+    	min-width: 100%;
+	}
+	
+	.purchase-box {
+    	float: none;
+    	max-width: 100%;
+    	overflow: hidden;
+	}
+	
+	#other-stuff .blueprints {
+    	margin: auto;
+    	width: 100%;
+	}
+	
+	.single-sc_classes_sales .purchase-box.blueprint-purchase-box .button {
+    	width: 100%;
+		margin-bottom:20px;
+	}
+	.single-sc_classes_sales .purchase-box.blueprint-purchase-box header:after {
+    	left: 0;
+    	width: 100%;
+	}
+	
+	.single-sc_classes_sales .purchase-box.blueprint-purchase-box header {
+    	margin-top: 50px;
+
+	}
+	
+	.single.single-sc_classes_sales .class-purchase-holder {
+    	width: 100%;
+	}
+    #bootcamp #mce-EMAIL,
+    #bootcamp #mc-embedded-subscribe {
+        display: inline-block;
+        vertical-align: top;
+        border-radius: 0;
+        float: none;
+    }
+    #bootcamp #mce-EMAIL,
+    #bootcamp #mc-embedded-subscribe,
+    #bootcamp.bootcamp-big input#mce-EMAIL {
+        width: 100%;
+        margin-right: 0;
+    } 
+    #bootcamp .mc-field-group {
+        margin-top: 20px;
+    }
+
+    .single-sc_classes_sales #sales-hero .sales-hero-main {
+        width: 100%;
+    }
+
+    .single.single-sc_classes_sales #class-breakdown header {
+        width: auto;
+    }
+    .single.single-sc_classes_sales #testimonial figure {
+        text-align: center;
+        float: none;
+        margin-right: 0;
+    }
+    .single.single-sc_classes_sales #testimonial .testimonial-content {
+        margin-top: 0;
+        width: 100%;
+    }
+    .single.single-sc_classes_sales #testimonial {
+        padding: 40px 0;
+    }
+    .class-breakdown-preview iframe {
+        max-width: 100%;
+    }
+    .single.single-sc_classes_sales #sales-hero {
+        padding: 70px 0;
+    }
+    .single.single-sc_classes_sales #down-arrow {
+        margin-top: -50px;
+    }
+    .single.single-sc_classes_sales #week-breakdown .class > div {
+        width: 23%;
+        margin-right: 3%;
+        float: left;
+    }
+    .single.single-sc_classes_sales #week-breakdown .class .details {
+        width: 70%;
+    }
+    .single.single-sc_classes_sales #week-breakdown .date-box {
+        margin-right: 0;
+        width: auto;
+        float: none;
+    }
+    .mentor img {
+        height: 370px;
+        width: auto;
+    }
+    .mentor-bio {
+        padding: 30px 10px;
+        width: 100%;
+        height: auto;
+    }
+    .single-sc_classes_sales .class-purchase-holder .purchase-box {
+        width: 100%;
+        max-width: none;
+    }
+    .single.single-sc_classes_sales .blueprint-purchase-box {
+        border-top: 1px solid #FFF;
+    }
+    .single-sc_classes_sales .one-class .what-youll-learn {
+        white-space: normal;
+    }
+    #faq_s1_leftcol, 
+    #faq_s1_midcol,
+    #faq_s1_rightcol {
+        width: 100%;
+        padding: 0 10px;
+     }
+     .open-form + .menu-blog-categories-container {
+        clear: both;
+     }
+     .dashboard-next-lesson {
+        max-width: 100%;
+     }
+    .page-template-page-templatestemplate-dashboard-php #mightybell,
+    .dashboard-blog-post {
+        min-width: 0;
+        width: auto
+    }
+    .dashboard-project-content {
+        min-width: 0;
+    }
+    .page-template-page-templatestemplate-dashboard-php #mightybell-text,
+    .page-template-page-templatestemplate-dashboard-php .dashboard-blog-post .blogpost-content {
+        width: 100%;
+    }
+    .page-template-page-templatestemplate-dashboard-php #mightybell-img,
+    .page-template-page-templatestemplate-dashboard-php .dashboard-blog-post .post-main-image {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .single-sc_projects aside {
+        width: 30%;
+        margin-right: 3%;
+    }
+    #all-skill-holder {
+        width: 67%;
+    }
+    .skill-content-main,
+    .skill-sidebar {
+        float: none;
+        padding: 30px 20px 0;
+    }
+    .individual-skill-resource iframe {
+        padding: 0 !important
+    }
+    .skill-sidebar {
+        width: 100%;
+    }
+    .skill-content-main {
+        width: 100%;
+        border-left: 0;
+    }
+    .user-challenge-sidebar {
+        padding-top: 50px;
+    }
+    .user-challenge-author #author-avatar {
+        float: none;
+        width: auto;
+        padding: 0 10px 10px;
+    }
+
+    .single-sc_workshops #instructors .instructor {
+        width: 100%;
+    }
+    .single-sc_workshops #instructors .instructors-content {
+        margin-left: 0;
+    }
+    .single-sc_workshops #instructors header h1 {
+        margin-bottom: 40px;
+    }
+    .single-sc_workshops #faq {
+        padding: 50px 0;
+    }
+
+    .author #edit-profile-form .form-section.social #social-buttons {
+        height: auto;
+    }
+    #tribe-bar-form.tribe-bar-collapse .tribe-bar-views-inner {
+        padding-bottom: 0;
+    }
+    #tribe-events-pg-template {
+        padding: 0;
+    }
+    .events-list .tribe-events-loop {
+        padding: 0 20px;
+    }
+    .tribe-bar-mini .tribe-bar-views-inner {
+        padding-bottom: 0;
+    }
+    #tribe-bar-collapse-toggle span.tribe-bar-toggle-arrow {
+        display: inline-block;
+        margin: 0 10px;
+        position: relative;
+        width: 16px;
+        vertical-align: top;
+        right: auto;
+    }
+
+    div.testimonials-wrap {
+        font-size: 14px;
+    }
+    .testimonials-wrap .tm.tm-half {
+        width: 100%;
+        margin-left: 0;
+    }
+    .testimonials-wrap .tm.tm-half + .tm-half {
+        margin-top: 50px;
+        margin-left: 0;
+    }
+    .testimonials-wrap .tm .img-wrap {
+        width: 30%;
+    }
+    .testimonials-wrap .tm .content {
+        padding-left: 36%;
+    }
+    .testimonials-wrap .tm-mega .img-wrap {
+        margin: 20px 0 5px 10px;
+        width: 35%;
+    }
+    .testimonials-wrap .tm-mega .content {
+        padding-right: 40%;
+    }
+    .testimonials-wrap .tm-small {
+        width: 48%;
+    }
+    .testimonials-wrap .tm-lead .img-wrap {
+        margin-bottom: 0;
+    }
+    .testimonials-wrap .tm-lead .content {
+        padding-right: 0;
+    }
+} /* END styles for tablet */
+
+@media screen and (max-width: 1200px){ 
+    .single-sc_skill_resources #container, 
+    .single-user_challenges #container, 
+    .single-user_projects #container, 
+    .single-sc_projects #container, 
+    .single-user_102_challenges #container,
+    .individual-skill-holder {
+        min-width: 0;
+    }
+    .user-project-links {
+        height: auto;
+    }
+    .skill-stuff .step-title h4,
+    .skill-stuff h4.lesson-title {
+        margin-right: 0
+    }
+    .user-project-links {
+        width: 100%;
+    }
+    .individual-skill-holder {
+        margin-bottom: 60px;
+    }
+    .postid-20810 .skill-info-text p, 
+    .skill-info-text img[alt="bookofruby"]{
+        width: 50%;
+    }
+    .single p img, 
+    .single-sc_skill_challenges p img, 
+    .single-sc_skill_resources p img, 
+    img.size-full {
+        padding-top: 20px;
+    }
+    .skill-info-text p#beginning-ruby,
+    .skill-info-text p#oreilly,
+    .skill-info-text p#eloquent-ruby {
+        padding-top: 50px;
+    }
+    #eloquent-ruby + .book-notes {
+        float: right;
+    }
+    #eloquent-ruby + .book-notes img {
+        width: 100%;
+    }
+    #lrthw {
+        padding: 0 0 0 10px;
+    }
+    .skill-info-text div.button#pick-app-button {
+        width: auto;
+    }
+    .single-sc_workshops .instructor {
+        height: auto;
+        min-width: 0;
+    }
+    .single-sc_workshops .instructor img {
+        width: 40%
+    }
+    .single-sc_workshops .instructor .bio {
+        width: 65%;
+        padding: 10px;
+        height: auto;
+    }
+    #bootcamp.bootcamp-big #mce-EMAIL {
+        width: 300px;
+    }
+    .single-sc_workshops #faq header h1 {
+        margin-bottom: 20px;
+    }
+    .author #edit-profile-form {
+        margin-left: 20px;
+    }
+    .author #edit-profile-form .right-col,
+    .author #edit-profile-form .left-col {
+        width: 48%;
+    }
+    .author #edit-profile-form .form-section {
+        padding: 10px;
+    }
+    .author #edit-profile-form .form-section.social div.button {
+        margin-bottom: 10px;
+    }
+    .open-form + .menu-blog-categories-container {
+        border-top: 1px dotted #d7d5d5;
+    }
+
+    #your-activity {
+        padding-top: 80px;
+    }
+    .author #bio-buttons {
+        margin: -64px 0 0;
+        width: auto;
+    }
+    .author #bio-buttons #edit-profile {
+        margin: 0;
+    }
+    .completed-classes .one-class {
+        margin-top: 40px;
+    }
+
+    .single #ss-downloads img {
+        width: 25%;
+    }
+    .single #ss-downloads .content {
+        float: none;
+        width: auto;
+    }
+    .single #ss-downloads.download-sent .buttons .button {
+        width: 70%;
+    }
+    .single #ss-downloads.download-sent .buttons {
+        text-align: right;
+    }
+} /* end 960 */
+
+@media screen and (max-width: 960px) and (orientation:portrait) {
+    .editor-area.slidein,
+    #preview-area.slidein {
+        position: relative;
+        left: 0;
+        top: 0;
+        width: 768px !important;
+    }
+    .project-entry #preview-area iframe {
+        width: 100%;
+    }
+    #slider {
+        padding-left: 0;
+    }
+    #slider #tabs {
+        width: 100%;
+    }
+    #code-editor-top {
+        padding: 10px;
+    }
+    #editor-code .CodeMirror {
+        width: 100%;
+    }
+    .slidein #editor-footer {
+        left: 0;
+        width: 100%;
+    }
+    #slide-nav {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        top: 0;
+    }
+    #slide-nav #editor-close {
+        width: 50px;
+        height: 50px;
+        float: right;
+        margin: 10px;
+    }
+    .editor-area {
+        margin-left: -100%;
+        top: 0;
+    }
+    .single-user_102_challenges #post {
+        overflow: hidden;
+    }
+    #preview-area {
+        border-left: 0;
+        left: 0;
+        position: relative;
+        width: 100% !important;
+        top: 70px;
+    }
+}

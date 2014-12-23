@@ -1,0 +1,759 @@
+/** Sign in, forgot password, etc. **/
+#sign-in-logo a {
+    background: url("../img/logo/skillcrush-logo.png") no-repeat scroll 0 0 transparent;
+    color: #F15959;
+    float: left;
+    font-family: georgia;
+    font-size: 80px;
+    font-style: italic;
+    height: 29px;
+    margin: 100px 435px 80px;
+    text-align: center;
+    text-indent: -10000px;
+    width: 129px;
+    display:block;
+}
+body.page-template-page-templatestemplate-mp-signin-php #container {
+    overflow-x:hidden;
+}
+#sign-in {
+    border-radius: 8px 8px 8px 8px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.page #sign-in header {
+    background: none repeat scroll 0 0 transparent;
+    border-bottom: 1px solid #C6D5D7;
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+}
+.page #sign-in header h1 {
+    margin-top: 0px;
+    color: #50C7A3;
+    float: none;
+    font-family: 'bad script';
+    font-size: 56px;
+    text-align: center;
+    text-transform: none;
+}
+#sign-in-page-header h2 {
+    color: #434242;
+    font-size: 22px;
+    margin-top: 10px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+#mepr_loginform, #mepr_forgot_password_form {
+    margin: auto;
+    padding-top: 20px;
+    width: 430px;
+}
+#mepr_loginform input[type="text"], #mepr_loginform input[type="password"] {
+    width: 408px;
+}
+form#mepr_loginform label,
+form#wafp_loginform label {
+    color: #3A3939;
+    font-family: 'montserrat';
+    font-size: 18px;
+    margin-bottom: 6px;
+    margin-right: 20px;
+    margin-top: 10px;
+    text-align: left;
+}
+form#mepr_loginform label strong {
+    font-weight: normal;
+}
+p.mepr-login-actions {
+    margin: 50px auto auto;
+    width: 430px;
+}
+p.mepr-login-actions a {
+    color:#adadad;
+}
+div.user-registration-pages div.main h3 {
+    text-align: center;
+}
+
+/** Payment Breadcrumbs **/
+#breadcrumbs {
+    margin: 60px 0;
+}
+
+#breadcrumbs .main {
+    height: 50px;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+}
+#breadcrumbs .main ul {
+    padding: 4px 20px 0 20px;
+    color: #c8c7c7;
+    text-align: justify;
+}
+#breadcrumbs .main ul:after {
+    content: '';
+    width: 100%; /* Ensures there are at least 2 lines of text, so justification works */
+    display: inline-block;
+}
+#breadcrumbs .main ul li {
+    display: inline-block;
+    font-family: 'montserrat';
+    font-size: 14px;
+    padding-top: 10px;
+    text-transform: uppercase;
+}
+#breadcrumbs .main ul li.breadcrumbs-arrow {
+    padding: 0 2px;
+}
+#breadcrumbs .main ul li img {
+    margin-top: -3px;
+    vertical-align: middle;
+}
+
+/** Payment **/
+.post-template-page-templates\/template-blueprintpurchasestep1-php .user-notloggedin .site-header,
+.single-memberpressproduct .user-notloggedin .site-header {
+    display: none !important;
+}
+.post-template-page-templates\/template-blueprintpurchasestep1-php #signed-in-navigation,
+.single-memberpressproduct #signed-in-navigation,
+.page-template-page-templatestemplate-mp-thankyou-php #signed-in-navigation {
+    display: none;
+}
+.post-template-page-templates\/template-blueprintpurchasestep1-php.logged-in,
+.single-memberpressproduct.logged-in,
+.page-template-page-templatestemplate-mp-thankyou-php.logged-in {
+    padding-left: 0;
+    min-width: 960px;
+}
+.post-template-page-templates\/template-blueprintpurchasestep1-php.logged-in #container .main,
+.single-memberpressproduct.logged-in #container .main,
+.page-template-page-templatestemplate-mp-thankyou-php.logged-in #container .main,
+.single-memberpressproduct .user-notloggedin .main {
+    width: 100%;
+    margin: 0 auto;
+}
+.post-template-page-templates\/template-blueprintpurchasestep1-php #container,
+.single-memberpressproduct #container {
+    padding-top: 0;
+    border-top: 3px solid #fa7b75;
+}
+.post-template-page-templates\/template-blueprintpurchasestep1-php {
+    background: none;
+}
+
+#step-1 p,
+#step-2 p {
+    font-size: 14px;
+    color: #747474;
+}
+#step-1 #option-buttons {
+    margin-top: 60px;
+    padding-bottom: 220px;
+    /*border-bottom: 2px solid #dddddd;*/
+}
+#step-1 .button {
+    border: 3px solid #cfcccc;
+    background-color: white;
+    color: #747474;
+    font-size: 14px;
+    width: 275px;
+    height: 65px;
+	padding: 20px;
+    vertical-align: middle;
+}
+#step-1 .bp-inactive {
+    background: url("../img/blueprints/diag-button-pattern.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+#step-1 #one-time {
+    margin-right: 20px;
+}
+
+#step-1 .button.inactive {
+	border:1px solid #cfcccc;
+    height: 28px;
+}
+
+#step-1 #monthly,
+#step-1 #monthly-charges {
+    float: right;
+
+}
+#step-1 #monthly-charges {
+    width: 270px;
+    display: none;
+}
+#step-1 #monthly-charges p {
+    width: 250px;
+    float: right;
+}
+#step-1 #monthly-charges figure {
+    display: inline-block;
+    padding-top: 2px;
+}
+#step-1 .payment-check {
+    z-index: 1;
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    display: none;
+}
+#step-1 .bp-active {
+    border: 3px solid #b6e9ce;
+    color: #2b2b2b;
+}
+#step-1 #main-step-box {
+    float: left;
+    width: 580px;
+    margin-right: 20px;
+}
+#product-box {
+    float: right;
+    width: 350px;
+    border: 3px solid #dddddd;
+    color: #b2b1b1;
+}
+#product-box header {
+    border-bottom: 1px solid #dddddd;
+    padding: 20px;
+}
+#product-box header h3 {
+    color: #747474;
+    font-weight: normal;
+	margin-top: 5px;
+}
+#product-box figure {
+    float: left;
+    margin-right: 8px;
+    margin-top: -5px;
+}
+#product-box header p {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    line-height: 19px;
+}
+#product-box #learn {
+    padding: 20px;
+}
+#product-box #learn h5 {
+    margin-bottom: 20px;
+	color: #747474;
+	line-height: 22px;
+}
+#product-box #learn ul {
+    margin-bottom: 30px;
+    color: #747474;
+}
+#product-box #learn ul li {
+    background: url("../img/blueprints/light-red-check.png") no-repeat scroll 0 5px rgba(0, 0, 0, 0);
+    padding-left: 20px;
+    font-size: 14px;
+}
+#step-1 button#next {
+    display: none;
+    margin-top: 20px;
+    float: right;
+    width: 200px;
+    height: 45px;
+    padding: 8px;
+    text-transform: uppercase;
+	color: #FFFFFF;
+}
+#step-1 button#next a {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 15px;
+    display: block;
+}
+.breadcrumbs-2-parent,
+.breadcrumbs-3-parent {
+    display: none;
+}
+#breadcrumbs-step-1.active-step,
+#breadcrumbs-step-2.active-step,
+#breadcrumbs-step-3.active-step {
+    color: #f16059;
+}
+#step-2 #product-box {
+    margin-top: -76px;
+}
+
+/** Thank you **/
+.page-template-page-templatestemplate-mp-thankyou-php {
+    background-color: #f16059;
+}
+.page-template-page-templatestemplate-mp-thankyou-php.logged-in #container .site-footer,
+.page-template-page-templatestemplate-mp-thankyou-php.logged-in #container .sub-footer {
+    background: none;
+}
+.page-template-page-templatestemplate-mp-thankyou-php.logged-in #container .site-footer {
+    bottom: 0;
+    position: static;
+}
+
+.page-template-page-templatestemplate-mp-thankyou-php .site-header h1 a {
+    background: url("../img/logo/white-logo.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+#thank-you {
+    padding-top: 100px;
+}
+#thank-you .main .hidden-user-info,
+.single-memberpressproduct .hidden-user-info {
+    display: none;
+}
+#thank-you .main h1 {
+    font-family: 'montserrat';
+    font-weight: 700;
+    font-size: 156px;
+    color: #e44b44;
+    text-transform: uppercase;
+}
+#thank-you-content {
+    width: 600px;
+    margin-left: 300px;
+    margin-top: -53px;
+    z-index: 1;
+    position: relative;
+}
+#thank-you-content img {
+    padding-right: 3px;
+}
+#thank-you-content p {
+    color: #FFFFFF;
+    font-family: "Open Sans","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+    font-size: 19px;
+    line-height: 30px;
+}
+#thank-you-content a {
+    color: #FFFFFF;
+    text-decoration: none;
+    border-bottom: 2px dotted #FFFFFF;
+}
+#thank-you-content a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+    border-bottom: 2px #FFFFFF dotted;
+}
+#thank-you-content a:visited {
+     color: #FFFFFF;
+     border-bottom: 2px #FFFFFF dotted;
+}
+
+/* bootcamp product page */
+.single-memberpressproduct.postid-17831 #bootcamp-account {
+    margin-top: 80px;
+}
+.single-memberpressproduct.postid-17831 header h1 {
+    font-family: 'Montserrat';
+    font-size: 41px;
+    font-weight: bold;
+}
+.single-memberpressproduct.postid-17831 header h2 {
+    color: #999999;
+    font-family: 'open sans';
+    font-size: 24px;
+    font-weight: normal;
+    margin: 20px 0 20px 0;
+}
+.single-memberpressproduct.postid-17831 header h3 {
+    color: #f15959;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    text-align: center;
+}
+.single-memberpressproduct.postid-17831 header h1,
+.single-memberpressproduct.postid-17831 header h2 {
+    text-align: center;
+}
+.single-memberpressproduct.postid-17831 #login-prompt {
+    display: block;
+    text-align: center;
+}
+.single-memberpressproduct.postid-17831 .mepr_price {
+    display: none;
+}
+.single-memberpressproduct.postid-17831 #mepr_registerform {
+    margin-right: 0;
+
+}
+.single-memberpressproduct.postid-17831 form#mepr_registerform {
+    float: none;
+    margin: auto;
+    margin-top: 80px;
+    padding-left: 30px;
+}
+.single-memberpressproduct.postid-17831 .submit-button#wp-submit {
+    margin-right: 38px;
+}
+.single-memberpressproduct.postid-17831 p {
+    width: 60%;
+    margin: auto;
+    padding-left: 30px;
+}
+.single-memberpressproduct.postid-17831 .error {
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+/* Memberpress Form Styles */
+#step-2 header#step-header {
+    width: 580px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+#step-2 header#step-header h1 {
+    float: left;
+}
+#step-2 header#step-header span {
+    float: right;
+    padding-top: 10px;
+    color: #3A3939;
+    font-size: 13px;
+    margin-right: 15px;
+	margin-top: -4px;
+}
+form .mepr_signup_table .mepr_signup_table_row input,
+#payment-form input,
+form .mepr_signup_table .mepr_signup_table_row password, 
+form .mepr_signup_table .mepr_signup_table_row textarea, 
+form .mepr_signup_table .mepr_signup_table_row select, 
+#payment-form select,
+form .mepr_signup_table .mepr_signup_table_row .mepr_signup_table_cell {
+    border: 2px solid #D1D1D1;
+    box-shadow: none;
+    clear: both;
+    display: block;
+    height: 35px;
+    max-width: 310px !important;
+    min-width: 260px !important;
+    padding: 5px;
+    width: 100%;
+}
+#payment-form select {
+    margin-bottom: 5px;
+}
+
+.mepr_signup_table .mepr_signup_table_row select {
+    height: 50px;
+}
+
+form .mepr_signup_table .mepr_signup_table_row label,
+.mepr_signup_table form .mepr_signup_table_row label {
+    color: #727070;
+    font-size: 16px;
+    margin-bottom: 6px;
+    max-width: 100%;
+    min-width: 100%;
+    width: 100%;
+font-weight: normal;
+font-family: Montserrat;
+}
+
+.single-memberpressproduct form#mepr_registerform, 
+.single-memberpressproduct form#mepr_logged_in_purchase {
+    clear: both;
+    float: left;
+    margin-right: 20px;
+    width: 60%;
+}
+
+.single-memberpressproduct #mepr_logged_in_purchase .mepr_signup_table {
+    width: 100%;
+}
+
+/*.single-memberpressproduct form#payment-form {
+    clear: both;
+    float: none;
+    margin-right: 0;
+    width: 100%;
+}*/
+
+.single-memberpressproduct .mepr_signup_table .mepr_signup_table_row {
+    display: block;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 5%;
+    width: 45%;
+}
+
+/*.mepr_signup_table .mepr_signup_table_row.mepr_coupon,
+.mepr_signup_table_row .mepr_payment_method {
+    display: block;
+    float: none;
+    margin-bottom: 16px;
+    width: 100%;
+	background:#fafafa;
+	padding:10px;
+    clear:both;
+}
+
+.mepr_signup_table .mepr_signup_table_row.mepr_coupon label {
+    color: #727070;
+    font-size: 16px;
+    margin-bottom: 6px;
+    max-width: 40%;
+    min-width: 40%;
+    width: 40%;
+	float:left;
+}
+
+
+
+.mepr_signup_table .mepr_signup_table_row.mepr_coupon #mepr_coupon_code {
+	float:left;
+}*/
+
+form.mepr_signup_table,
+form.mepr-signup-form {
+	/*border-bottom:2px solid #dddddd;*/
+	/*padding-bottom:40px;*/
+	margin-bottom:0px;
+}
+
+#step-2 .error, #step-2 .errors {
+    /*background: none repeat scroll 0 0 rgba(0, 0, 0, 0);*/
+    clear: both;
+    display: block;
+    margin: 0;
+    padding: 15px;
+    font: 16px 'Montserrat', sans-serif;
+    margin-bottom: 30px;
+}
+
+#step-2 .error ul,
+#step-2 .errors ul {
+    list-style-type: none;
+    padding: 6px 0 6px 0;
+	width: 700px;
+    margin-bottom: 0;
+}
+#step-2 .error ul li,
+#step-2 .errors ul li {
+    /*font: 16px 'Montserrat', sans-serif;*/
+    margin-bottom: 0;
+}
+
+form.mepr_signup_table .submit-button#wp-submit,
+form.mepr-signup-form .submit-button#wp-submit,
+form#payment-form button[type="submit"],
+button.mepr_front_button.submit-button#wp-submit {
+   background: none repeat scroll 0 0 #F16059;
+    color: #FFFFFF;
+    float: right;
+    font-family: 'montserrat';
+    font-size: 15px;
+    font-weight: normal;
+    margin: 30px 52px 0 20px;
+    padding: 16px 60px;
+    text-transform: uppercase;
+}
+form#payment-form button[type="submit"] {
+    margin-top: 140px;
+}
+
+button.mepr_front_button.submit-button {
+    content: "Purchase Blueprint >";
+    font-family: 'montserrat';
+    margin-right: 0 !important;
+   float: right;
+}
+
+.mepr_signup_table #payment-form .mepr_signup_table_row {
+    background: none repeat scroll 0 0 #FAFAFA;
+    display: block;
+    margin-bottom: 0;
+    padding: 15px;
+    width: 340px;
+}
+
+.single-memberpressproduct .mepr-loading-gif {
+    float: right;
+    margin-top: 48px;
+    margin-right: -15px;
+}
+
+.single-memberpressproduct img.stripe-loading-gif {
+    float: right;
+    margin-top: 18px;
+    margin-right: 5px;
+}
+
+.mepr_signup_table form br {
+	display:none;
+}
+
+/* CC Form */
+
+.mepr-form-input.card-number {
+	width:100%;
+}
+
+.mepr_signup_table_row.mepr_price_row {
+	display:none!important;
+}
+
+.single-memberpressproduct .mepr_signup_table_row.mepr_coupon {
+    background: none repeat scroll 0 0 #FAFAFA;
+    padding: 10px 2.5% 5px;
+    width: 93%;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.single-memberpressproduct .mepr_signup_table_row.mepr_payment_method {
+    float: right;
+	margin-top: 20px;
+}
+
+form#mepr_registerform .mepr_signup_table_row.mepr_coupon label {
+    float: left;
+    margin-top: 14px;
+    max-width: 50%;
+    min-width: 30%;
+    text-align: center;
+    width: 50%;
+}
+
+form#mepr_registerform .mepr_signup_table_row.mepr_coupon #mepr_coupon_code {
+    clear: none;
+    float: right;
+}
+
+.mepr_signup_table {
+    border-bottom: 2px solid #EBEBEB;
+    margin-bottom: 0;
+    overflow: auto;
+    padding-bottom: 30px;
+}
+br.clear {
+	display:none;
+}
+
+#step-2 .mepr_signup_table {
+    border-bottom: medium none;
+    clear: left;
+    float: left;
+    margin-bottom: 0;
+    margin-top: 0;
+    overflow: auto;
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+.mepr_cc_form_holder {
+    background: none repeat scroll 0 0 #FAFAFA;
+    border: 2px solid #EDECEC;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    overflow: auto;
+    padding: 20px;
+   margin-top: 20px;
+   width: 450px;
+
+}
+
+.mepr_signup_table #payment-form .mepr_cc_form_holder .mepr_signup_table_row {
+    background: none repeat scroll 0 0 #FAFAFA;
+    display: block;
+    margin-bottom: 0;
+    margin-right: 0;
+    padding: 5px 10px;
+    width: 560px;
+}
+
+.mepr_signup_table #payment-form  .mepr_cc_form_holder .mepr_signup_table_row {
+    background: none repeat scroll 0 0 #FAFAFA;
+    display: block;
+    margin-bottom: 0;
+    margin-right: 0;
+    padding: 5px 10px;
+    width: 95%;
+}
+
+.mepr_signup_table .mepr_cc_form_holder .mepr_signup_table_row input, 
+.mepr_signup_table .mepr_cc_form_holder .mepr_signup_table_row password, 
+.mepr_signup_table .mepr_cc_form_holder .mepr_signup_table_row textarea, 
+.mepr_signup_table .mepr_cc_form_holder .mepr_signup_table_row select, 
+.mepr_signup_table .mepr_cc_form_holder .mepr_signup_table_row .mepr_signup_table_cell {
+    max-width: 98%;
+    min-width: 40%;
+    padding: 5px;
+    width: 98%;
+}
+
+.mepr_signup_table .mepr_cc_form_holder .mepr-form-input.card-number,
+.mepr_signup_table .mepr_cc_form_holder .mepr-form-input.card-cvc {
+	box-shadow:none;
+	border:2px solid #d1d1d1;
+}
+
+.mepr_signup_table .mepr_cc_form_holder .mepr_signup_table_row select {
+    float: left;
+    height: 44px;
+    margin-right: 10px;
+    max-width: 80px !important;
+    min-width: 80px !important;
+    padding: 0;
+    width: 80px;
+}
+
+.mepr_signup_table .mepr_cc_form_holder .mepr_signup_table_row select option {
+    padding: 20px;
+    text-align: center;
+}
+
+.mepr_signup_table .mepr_cc_form_holder select.mepr-payment-form-select.card-expiry-month {
+	
+}
+
+
+.mepr_signup_table #payment-form .mepr_cc_form_holder .mepr_signup_table_row.mepr_expiration {
+	float:left;
+ width: 44%;
+}
+
+.mepr_signup_table #payment-form .mepr_cc_form_holder .mepr_signup_table_row.mepr_cvv_code {
+	float:left;
+ width: 44%;
+}
+
+/*Thank YOu Page */
+.thank-you-cta {
+	border-top:2px dotted #e24841;
+	border-bottom:2px dotted #e24841;
+	margin-top:60px;
+}
+
+#thank-you-content .thank-you-cta p a {
+	display:block;
+	padding:20px 0;
+	border:none;
+}
+
+#thank-you-content .thank-you-cta p {
+	    color: #FFFFFF;
+	    font-family: "Open Sans","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+	    font-size: 24px;
+	    font-style: italic;
+	    line-height: 30px;
+	    margin-bottom: 0;
+	}
+	
+/* Account Settings Page */
+.page-template-page-templatestemplate-mp-account-settings-php #thank-you .main h1 {
+    border-bottom: 1px solid #EBEBEB;
+    color: #3B3B3B;
+    font-family: 'montserrat';
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    text-transform: none;
+}
+.page-template-page-templatestemplate-mp-account-settings-php #thank-you {
+    padding-top: 40px;
+}
